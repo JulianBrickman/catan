@@ -1,0 +1,1591 @@
+{
+  "active_player": 3,
+  "pending_phase": "robber_move",
+  "robber_hex_id": 0,
+  "longest_road_owner": null,
+  "largest_army_owner": null,
+  "turn_number": 3,
+  "last_roll": 7,
+  "winner": null,
+  "hexes": [
+    {
+      "id": 0,
+      "terrain": "fields",
+      "resource": "grain",
+      "token": 4,
+      "has_robber": true
+    },
+    {
+      "id": 1,
+      "terrain": "forest",
+      "resource": "lumber",
+      "token": 12,
+      "has_robber": false
+    },
+    {
+      "id": 2,
+      "terrain": "desert",
+      "resource": null,
+      "token": null,
+      "has_robber": false
+    },
+    {
+      "id": 3,
+      "terrain": "mountains",
+      "resource": "ore",
+      "token": 9,
+      "has_robber": false
+    },
+    {
+      "id": 4,
+      "terrain": "pasture",
+      "resource": "wool",
+      "token": 5,
+      "has_robber": false
+    },
+    {
+      "id": 5,
+      "terrain": "pasture",
+      "resource": "wool",
+      "token": 6,
+      "has_robber": false
+    },
+    {
+      "id": 6,
+      "terrain": "mountains",
+      "resource": "ore",
+      "token": 9,
+      "has_robber": false
+    },
+    {
+      "id": 7,
+      "terrain": "forest",
+      "resource": "lumber",
+      "token": 6,
+      "has_robber": false
+    },
+    {
+      "id": 8,
+      "terrain": "forest",
+      "resource": "lumber",
+      "token": 5,
+      "has_robber": false
+    },
+    {
+      "id": 9,
+      "terrain": "fields",
+      "resource": "grain",
+      "token": 2,
+      "has_robber": false
+    },
+    {
+      "id": 10,
+      "terrain": "pasture",
+      "resource": "wool",
+      "token": 10,
+      "has_robber": false
+    },
+    {
+      "id": 11,
+      "terrain": "hills",
+      "resource": "brick",
+      "token": 8,
+      "has_robber": false
+    },
+    {
+      "id": 12,
+      "terrain": "fields",
+      "resource": "grain",
+      "token": 4,
+      "has_robber": false
+    },
+    {
+      "id": 13,
+      "terrain": "hills",
+      "resource": "brick",
+      "token": 11,
+      "has_robber": false
+    },
+    {
+      "id": 14,
+      "terrain": "mountains",
+      "resource": "ore",
+      "token": 8,
+      "has_robber": false
+    },
+    {
+      "id": 15,
+      "terrain": "forest",
+      "resource": "lumber",
+      "token": 11,
+      "has_robber": false
+    },
+    {
+      "id": 16,
+      "terrain": "hills",
+      "resource": "brick",
+      "token": 3,
+      "has_robber": false
+    },
+    {
+      "id": 17,
+      "terrain": "pasture",
+      "resource": "wool",
+      "token": 10,
+      "has_robber": false
+    },
+    {
+      "id": 18,
+      "terrain": "fields",
+      "resource": "grain",
+      "token": 3,
+      "has_robber": false
+    }
+  ],
+  "intersections": [
+    {
+      "id": 0,
+      "adjacent_hex_ids": [
+        0,
+        1
+      ],
+      "owner": 0,
+      "piece": "settlement",
+      "coastal": true
+    },
+    {
+      "id": 1,
+      "adjacent_hex_ids": [
+        0,
+        1,
+        4
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 2,
+      "adjacent_hex_ids": [
+        0,
+        3,
+        4
+      ],
+      "owner": 1,
+      "piece": "settlement",
+      "coastal": false
+    },
+    {
+      "id": 3,
+      "adjacent_hex_ids": [
+        0,
+        3
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 4,
+      "adjacent_hex_ids": [
+        0
+      ],
+      "owner": 2,
+      "piece": "settlement",
+      "coastal": true
+    },
+    {
+      "id": 5,
+      "adjacent_hex_ids": [
+        0
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 6,
+      "adjacent_hex_ids": [
+        1,
+        2
+      ],
+      "owner": 3,
+      "piece": "settlement",
+      "coastal": true
+    },
+    {
+      "id": 7,
+      "adjacent_hex_ids": [
+        1,
+        2,
+        5
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 8,
+      "adjacent_hex_ids": [
+        1,
+        4,
+        5
+      ],
+      "owner": 3,
+      "piece": "settlement",
+      "coastal": false
+    },
+    {
+      "id": 9,
+      "adjacent_hex_ids": [
+        1
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 10,
+      "adjacent_hex_ids": [
+        2
+      ],
+      "owner": 2,
+      "piece": "settlement",
+      "coastal": true
+    },
+    {
+      "id": 11,
+      "adjacent_hex_ids": [
+        2,
+        6
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 12,
+      "adjacent_hex_ids": [
+        2,
+        5,
+        6
+      ],
+      "owner": 1,
+      "piece": "settlement",
+      "coastal": false
+    },
+    {
+      "id": 13,
+      "adjacent_hex_ids": [
+        2
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 14,
+      "adjacent_hex_ids": [
+        3,
+        4,
+        8
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 15,
+      "adjacent_hex_ids": [
+        3,
+        7,
+        8
+      ],
+      "owner": 0,
+      "piece": "settlement",
+      "coastal": false
+    },
+    {
+      "id": 16,
+      "adjacent_hex_ids": [
+        3,
+        7
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 17,
+      "adjacent_hex_ids": [
+        3
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 18,
+      "adjacent_hex_ids": [
+        4,
+        5,
+        9
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 19,
+      "adjacent_hex_ids": [
+        4,
+        8,
+        9
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 20,
+      "adjacent_hex_ids": [
+        5,
+        6,
+        10
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 21,
+      "adjacent_hex_ids": [
+        5,
+        9,
+        10
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 22,
+      "adjacent_hex_ids": [
+        6
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 23,
+      "adjacent_hex_ids": [
+        6,
+        11
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 24,
+      "adjacent_hex_ids": [
+        6,
+        10,
+        11
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 25,
+      "adjacent_hex_ids": [
+        7,
+        8,
+        12
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 26,
+      "adjacent_hex_ids": [
+        7,
+        12
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 27,
+      "adjacent_hex_ids": [
+        7
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 28,
+      "adjacent_hex_ids": [
+        7
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 29,
+      "adjacent_hex_ids": [
+        8,
+        9,
+        13
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 30,
+      "adjacent_hex_ids": [
+        8,
+        12,
+        13
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 31,
+      "adjacent_hex_ids": [
+        9,
+        10,
+        14
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 32,
+      "adjacent_hex_ids": [
+        9,
+        13,
+        14
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 33,
+      "adjacent_hex_ids": [
+        10,
+        11,
+        15
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 34,
+      "adjacent_hex_ids": [
+        10,
+        14,
+        15
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 35,
+      "adjacent_hex_ids": [
+        11
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 36,
+      "adjacent_hex_ids": [
+        11
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 37,
+      "adjacent_hex_ids": [
+        11,
+        15
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 38,
+      "adjacent_hex_ids": [
+        12,
+        13,
+        16
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 39,
+      "adjacent_hex_ids": [
+        12,
+        16
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 40,
+      "adjacent_hex_ids": [
+        12
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 41,
+      "adjacent_hex_ids": [
+        13,
+        14,
+        17
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 42,
+      "adjacent_hex_ids": [
+        13,
+        16,
+        17
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 43,
+      "adjacent_hex_ids": [
+        14,
+        15,
+        18
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 44,
+      "adjacent_hex_ids": [
+        14,
+        17,
+        18
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": false
+    },
+    {
+      "id": 45,
+      "adjacent_hex_ids": [
+        15
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 46,
+      "adjacent_hex_ids": [
+        15,
+        18
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 47,
+      "adjacent_hex_ids": [
+        16,
+        17
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 48,
+      "adjacent_hex_ids": [
+        16
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 49,
+      "adjacent_hex_ids": [
+        16
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 50,
+      "adjacent_hex_ids": [
+        17,
+        18
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 51,
+      "adjacent_hex_ids": [
+        17
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 52,
+      "adjacent_hex_ids": [
+        18
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    },
+    {
+      "id": 53,
+      "adjacent_hex_ids": [
+        18
+      ],
+      "owner": null,
+      "piece": null,
+      "coastal": true
+    }
+  ],
+  "edges": [
+    {
+      "id": 0,
+      "intersection_ids": [
+        0,
+        1
+      ],
+      "owner": 0,
+      "coastal": false
+    },
+    {
+      "id": 1,
+      "intersection_ids": [
+        1,
+        2
+      ],
+      "owner": 1,
+      "coastal": false
+    },
+    {
+      "id": 2,
+      "intersection_ids": [
+        2,
+        3
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 3,
+      "intersection_ids": [
+        3,
+        4
+      ],
+      "owner": 2,
+      "coastal": true
+    },
+    {
+      "id": 4,
+      "intersection_ids": [
+        4,
+        5
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 5,
+      "intersection_ids": [
+        0,
+        5
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 6,
+      "intersection_ids": [
+        6,
+        7
+      ],
+      "owner": 3,
+      "coastal": false
+    },
+    {
+      "id": 7,
+      "intersection_ids": [
+        7,
+        8
+      ],
+      "owner": 3,
+      "coastal": false
+    },
+    {
+      "id": 8,
+      "intersection_ids": [
+        1,
+        8
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 9,
+      "intersection_ids": [
+        0,
+        9
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 10,
+      "intersection_ids": [
+        6,
+        9
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 11,
+      "intersection_ids": [
+        10,
+        11
+      ],
+      "owner": 2,
+      "coastal": true
+    },
+    {
+      "id": 12,
+      "intersection_ids": [
+        11,
+        12
+      ],
+      "owner": 1,
+      "coastal": false
+    },
+    {
+      "id": 13,
+      "intersection_ids": [
+        7,
+        12
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 14,
+      "intersection_ids": [
+        6,
+        13
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 15,
+      "intersection_ids": [
+        10,
+        13
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 16,
+      "intersection_ids": [
+        2,
+        14
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 17,
+      "intersection_ids": [
+        14,
+        15
+      ],
+      "owner": 0,
+      "coastal": false
+    },
+    {
+      "id": 18,
+      "intersection_ids": [
+        15,
+        16
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 19,
+      "intersection_ids": [
+        16,
+        17
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 20,
+      "intersection_ids": [
+        3,
+        17
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 21,
+      "intersection_ids": [
+        8,
+        18
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 22,
+      "intersection_ids": [
+        18,
+        19
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 23,
+      "intersection_ids": [
+        14,
+        19
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 24,
+      "intersection_ids": [
+        12,
+        20
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 25,
+      "intersection_ids": [
+        20,
+        21
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 26,
+      "intersection_ids": [
+        18,
+        21
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 27,
+      "intersection_ids": [
+        22,
+        23
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 28,
+      "intersection_ids": [
+        23,
+        24
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 29,
+      "intersection_ids": [
+        20,
+        24
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 30,
+      "intersection_ids": [
+        11,
+        22
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 31,
+      "intersection_ids": [
+        15,
+        25
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 32,
+      "intersection_ids": [
+        25,
+        26
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 33,
+      "intersection_ids": [
+        26,
+        27
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 34,
+      "intersection_ids": [
+        27,
+        28
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 35,
+      "intersection_ids": [
+        16,
+        28
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 36,
+      "intersection_ids": [
+        19,
+        29
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 37,
+      "intersection_ids": [
+        29,
+        30
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 38,
+      "intersection_ids": [
+        25,
+        30
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 39,
+      "intersection_ids": [
+        21,
+        31
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 40,
+      "intersection_ids": [
+        31,
+        32
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 41,
+      "intersection_ids": [
+        29,
+        32
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 42,
+      "intersection_ids": [
+        24,
+        33
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 43,
+      "intersection_ids": [
+        33,
+        34
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 44,
+      "intersection_ids": [
+        31,
+        34
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 45,
+      "intersection_ids": [
+        35,
+        36
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 46,
+      "intersection_ids": [
+        36,
+        37
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 47,
+      "intersection_ids": [
+        33,
+        37
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 48,
+      "intersection_ids": [
+        23,
+        35
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 49,
+      "intersection_ids": [
+        30,
+        38
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 50,
+      "intersection_ids": [
+        38,
+        39
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 51,
+      "intersection_ids": [
+        39,
+        40
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 52,
+      "intersection_ids": [
+        26,
+        40
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 53,
+      "intersection_ids": [
+        32,
+        41
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 54,
+      "intersection_ids": [
+        41,
+        42
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 55,
+      "intersection_ids": [
+        38,
+        42
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 56,
+      "intersection_ids": [
+        34,
+        43
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 57,
+      "intersection_ids": [
+        43,
+        44
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 58,
+      "intersection_ids": [
+        41,
+        44
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 59,
+      "intersection_ids": [
+        37,
+        45
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 60,
+      "intersection_ids": [
+        45,
+        46
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 61,
+      "intersection_ids": [
+        43,
+        46
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 62,
+      "intersection_ids": [
+        42,
+        47
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 63,
+      "intersection_ids": [
+        47,
+        48
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 64,
+      "intersection_ids": [
+        48,
+        49
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 65,
+      "intersection_ids": [
+        39,
+        49
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 66,
+      "intersection_ids": [
+        44,
+        50
+      ],
+      "owner": null,
+      "coastal": false
+    },
+    {
+      "id": 67,
+      "intersection_ids": [
+        50,
+        51
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 68,
+      "intersection_ids": [
+        47,
+        51
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 69,
+      "intersection_ids": [
+        46,
+        52
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 70,
+      "intersection_ids": [
+        52,
+        53
+      ],
+      "owner": null,
+      "coastal": true
+    },
+    {
+      "id": 71,
+      "intersection_ids": [
+        50,
+        53
+      ],
+      "owner": null,
+      "coastal": true
+    }
+  ],
+  "harbors": [
+    {
+      "edge_id": 35,
+      "rate": 3,
+      "resource": null
+    },
+    {
+      "edge_id": 3,
+      "rate": 2,
+      "resource": "lumber"
+    },
+    {
+      "edge_id": 10,
+      "rate": 3,
+      "resource": null
+    },
+    {
+      "edge_id": 11,
+      "rate": 2,
+      "resource": "grain"
+    },
+    {
+      "edge_id": 48,
+      "rate": 2,
+      "resource": "ore"
+    },
+    {
+      "edge_id": 60,
+      "rate": 2,
+      "resource": "wool"
+    },
+    {
+      "edge_id": 71,
+      "rate": 2,
+      "resource": "brick"
+    },
+    {
+      "edge_id": 63,
+      "rate": 3,
+      "resource": null
+    },
+    {
+      "edge_id": 52,
+      "rate": 3,
+      "resource": null
+    }
+  ],
+  "player_private": {
+    "player_id": 3,
+    "resources": {
+      "brick": 0,
+      "lumber": 1,
+      "ore": 0,
+      "grain": 0,
+      "wool": 3
+    },
+    "development_cards": {
+      "knight": 0,
+      "road_building": 0,
+      "year_of_plenty": 0,
+      "monopoly": 0,
+      "victory_point": 0
+    },
+    "new_development_cards": {
+      "knight": 0,
+      "road_building": 0,
+      "year_of_plenty": 0,
+      "monopoly": 0,
+      "victory_point": 0
+    }
+  },
+  "players": [
+    {
+      "player_id": 0,
+      "resource_count": 5,
+      "development_card_count": 0,
+      "roads_remaining": 13,
+      "settlements_remaining": 3,
+      "cities_remaining": 4,
+      "played_knights": 0,
+      "visible_victory_points": 2
+    },
+    {
+      "player_id": 1,
+      "resource_count": 2,
+      "development_card_count": 0,
+      "roads_remaining": 13,
+      "settlements_remaining": 3,
+      "cities_remaining": 4,
+      "played_knights": 0,
+      "visible_victory_points": 2
+    },
+    {
+      "player_id": 2,
+      "resource_count": 0,
+      "development_card_count": 0,
+      "roads_remaining": 13,
+      "settlements_remaining": 3,
+      "cities_remaining": 4,
+      "played_knights": 0,
+      "visible_victory_points": 2
+    },
+    {
+      "player_id": 3,
+      "resource_count": 4,
+      "development_card_count": 0,
+      "roads_remaining": 13,
+      "settlements_remaining": 3,
+      "cities_remaining": 4,
+      "played_knights": 0,
+      "visible_victory_points": 2
+    }
+  ],
+  "legal_actions": [
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 1,
+        "victim_id": 0
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 2,
+        "victim_id": 1
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 3,
+        "victim_id": 0
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 3,
+        "victim_id": 1
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 4,
+        "victim_id": 1
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 5,
+        "victim_id": 1
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 6,
+        "victim_id": 1
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 7,
+        "victim_id": 0
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 8,
+        "victim_id": 0
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 9,
+        "victim_id": null
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 10,
+        "victim_id": null
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 11,
+        "victim_id": null
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 12,
+        "victim_id": null
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 13,
+        "victim_id": null
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 14,
+        "victim_id": null
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 15,
+        "victim_id": null
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 16,
+        "victim_id": null
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 17,
+        "victim_id": null
+      }
+    },
+    {
+      "action_type": "move_robber",
+      "params": {
+        "hex_id": 18,
+        "victim_id": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+P0 (Red) built a setup settlement on intersection I0.
+P0 (Red) built a road on edge E0.
+P1 (Blue) built a setup settlement on intersection I2.
+P1 (Blue) built a road on edge E1.
+P2 (Gold) built a setup settlement on intersection I4.
+P2 (Gold) built a road on edge E3.
+P3 (Green) built a setup settlement on intersection I6.
+P3 (Green) built a road on edge E6.
+P3 (Green) built a setup settlement on intersection I8.
+P3 (Green) built a road on edge E7.
+P2 (Gold) built a setup settlement on intersection I10.
+P2 (Gold) built a road on edge E11.
+P1 (Blue) built a setup settlement on intersection I12.
+P1 (Blue) built a road on edge E12.
+P0 (Red) built a setup settlement on intersection I15.
+P0 (Red) built a road on edge E17.
+Setup complete.
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P1 (Blue).
+P0 (Red) moved the robber to hex H0.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P0 (Red) received 1 lumber from roll 6.
+P1 (Blue) received 1 wool from roll 6.
+P3 (Green) received 1 wool from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
