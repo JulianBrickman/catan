@@ -1,0 +1,3773 @@
+P0 (Red) built a setup settlement on intersection I53.
+P0 (Red) built a road on edge E71.
+P1 (Blue) built a setup settlement on intersection I51.
+P1 (Blue) built a road on edge E68.
+P2 (Gold) built a setup settlement on intersection I49.
+P2 (Gold) built a road on edge E65.
+P3 (Green) built a setup settlement on intersection I46.
+P3 (Green) built a road on edge E69.
+P3 (Green) built a setup settlement on intersection I44.
+P3 (Green) built a road on edge E66.
+P2 (Gold) built a setup settlement on intersection I42.
+P2 (Gold) built a road on edge E62.
+P1 (Blue) built a setup settlement on intersection I40.
+P1 (Blue) built a road on edge E52.
+P0 (Red) built a setup settlement on intersection I37.
+P0 (Red) built a road on edge E59.
+Setup complete.
+P0 (Red) rolled 7.
+P0 (Red) stole 1 lumber from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 grain from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 lumber from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 12.
+P3 (Green) received 1 lumber from roll 12.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 ore from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 12.
+P3 (Green) received 1 lumber from roll 12.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 ore from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 grain from P3 (Green).
+P2 (Gold) moved the robber to hex H15.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 12.
+P3 (Green) received 1 lumber from roll 12.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 12.
+P3 (Green) received 1 lumber from roll 12.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 ore from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 lumber from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+P0 (Red) received 1 grain from roll 4 (bank shortage tie-break).
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 ore from P1 (Blue).
+P3 (Green) moved the robber to hex H12.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 12.
+P3 (Green) received 1 lumber from roll 12.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 lumber from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 lumber from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 lumber from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 grain from P3 (Green).
+P2 (Gold) moved the robber to hex H15.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 lumber from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 grain from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 grain from P3 (Green).
+P2 (Gold) moved the robber to hex H15.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9 (bank shortage tie-break).
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 ore from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 lumber from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Gold) received 1 grain from roll 9 (bank shortage tie-break).
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 12.
+P3 (Green) received 1 lumber from roll 12.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 12.
+P3 (Green) received 1 lumber from roll 12.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9 (bank shortage tie-break).
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 grain from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 12.
+P3 (Green) received 1 lumber from roll 12.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9 (bank shortage tie-break).
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Green).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 lumber from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9 (bank shortage tie-break).
+Turn advanced to P3 (Green).
+P3 (Green) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 12.
+P3 (Green) received 1 lumber from roll 12.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 lumber from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 lumber from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 lumber from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 ore from P3 (Green).
+P2 (Gold) moved the robber to hex H15.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 lumber from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 lumber from P3 (Green).
+P2 (Gold) moved the robber to hex H15.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 lumber from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 lumber from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 grain from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 lumber from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+P2 (Gold) received 1 grain from roll 9 (bank shortage tie-break).
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 ore from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 grain from P3 (Green).
+P2 (Gold) moved the robber to hex H15.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 lumber from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 grain from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Gold) received 1 grain from roll 9 (bank shortage tie-break).
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 12.
+P3 (Green) received 1 lumber from roll 12.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+P0 (Red) received 1 grain from roll 4 (bank shortage tie-break).
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 grain from P3 (Green).
+P2 (Gold) moved the robber to hex H15.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Green).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9 (bank shortage tie-break).
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+P3 (Green) received 1 grain from roll 4 (bank shortage tie-break).
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9 (bank shortage tie-break).
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 ore from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+P2 (Gold) received 1 grain from roll 9 (bank shortage tie-break).
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 lumber from P3 (Green).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 grain from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 grain from P3 (Green).
+P2 (Gold) moved the robber to hex H15.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 ore from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9 (bank shortage tie-break).
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+P0 (Red) received 1 grain from roll 4 (bank shortage tie-break).
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 12.
+P3 (Green) received 1 lumber from roll 12.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 ore from P3 (Green).
+P2 (Gold) moved the robber to hex H15.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 ore from P3 (Green).
+P2 (Gold) moved the robber to hex H15.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 12.
+P3 (Green) received 1 lumber from roll 12.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 ore from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 lumber from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 lumber from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Green).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 grain from P1 (Blue).
+P2 (Gold) moved the robber to hex H12.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 grain from roll 4 (bank shortage tie-break).
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+P3 (Green) received 1 grain from roll 4 (bank shortage tie-break).
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+P0 (Red) received 1 grain from roll 4 (bank shortage tie-break).
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Green).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Gold) received 1 grain from roll 9 (bank shortage tie-break).
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 12.
+P3 (Green) received 1 lumber from roll 12.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 lumber from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 12.
+P3 (Green) received 1 lumber from roll 12.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 lumber from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 grain from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 lumber from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 lumber from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+P0 (Red) received 1 grain from roll 4 (bank shortage tie-break).
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 lumber from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 lumber from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P1 (Blue).
+P3 (Green) moved the robber to hex H12.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 12.
+P3 (Green) received 1 lumber from roll 12.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 ore from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 ore from P3 (Green).
+P2 (Gold) moved the robber to hex H15.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Green).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 ore from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 ore from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 grain from P3 (Green).
+P2 (Gold) moved the robber to hex H15.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 12.
+P3 (Green) received 1 lumber from roll 12.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 grain from P3 (Green).
+P2 (Gold) moved the robber to hex H14.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Green).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+P0 (Red) received 1 grain from roll 4 (bank shortage tie-break).
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 lumber from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 9.
+Bank shortage prevented grain from being distributed.
+Roll 9 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+P0 (Red) received 1 grain from roll 4 (bank shortage tie-break).
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P1 (Blue).
+P3 (Green) moved the robber to hex H12.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Gold) received 1 grain from roll 9.
+P2 (Gold) received 1 grain from roll 9.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 4.
+P0 (Red) received 1 grain from roll 4.
+P3 (Green) received 1 grain from roll 4.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 7.
+P3 (Green) stole 1 grain from P2 (Gold).
+P3 (Green) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 12.
+P3 (Green) received 1 lumber from roll 12.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 3.
+Roll 3 produced no resources.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 6.
+P3 (Green) received 1 lumber from roll 6.
+P1 (Blue) received 1 lumber from roll 6.
+P2 (Gold) received 1 lumber from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Bank shortage prevented grain from being distributed.
+Roll 4 produced no resources.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 5.
+P1 (Blue) received 1 ore from roll 5.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Green) received 1 ore from roll 10.
+P0 (Red) received 1 ore from roll 10.
+P3 (Green) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Green).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Gold).
+P2 (Gold) rolled 7.
+P2 (Gold) stole 1 ore from P3 (Green).
+P2 (Gold) moved the robber to hex H15.
+Turn advanced to P3 (Green).
+P3 (Green) rolled 3.
+P2 (Gold) received 1 lumber from roll 3.
+Turn advanced to P0 (Red).

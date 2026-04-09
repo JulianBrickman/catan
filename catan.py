@@ -11,8 +11,8 @@ from typing import Dict, Iterable, List, Optional, Sequence, Tuple
 
 BOARD_RADIUS = 2
 HEX_VERTEX_ANGLES = (-30, 30, 90, 150, 210, 270)
-PLAYER_COLORS = ("#d94841", "#2f6fed", "#d99a00", "#2d8a4b")
-PLAYER_COLOR_NAMES = ("Red", "Blue", "Gold", "Green")
+PLAYER_COLORS = ("#d94841", "#2f6fed", "#0f8b8d", "#8f4fd5")
+PLAYER_COLOR_NAMES = ("Red", "Blue", "Teal", "Purple")
 TERRAIN_COLORS = {
     "desert": "#d9c27d",
     "hills": "#cc704b",
@@ -48,6 +48,7 @@ ACTION_PHASES = (
     "turn_start",
     "robber_discard",
     "robber_move",
+    "trade_response",
     "main",
     "road_building",
     "game_over",
@@ -198,6 +199,10 @@ class GameState:
     pending_road_building: int = 0
     current_turn_road_builds: int = 0
     last_settlement_placed: Optional[int] = None
+    rolled_this_turn: bool = False
+    pending_trade_offer: Optional[Dict[str, object]] = None
+    pending_trade_responders: List[int] = field(default_factory=list)
+    pending_trade_responder: Optional[int] = None
     event_log: List[str] = field(default_factory=list)
 
     def to_observation(self, player_id: int) -> Dict[str, object]:
@@ -226,6 +231,9 @@ class GameState:
             "turn_number": self.turn_number,
             "last_roll": self.last_roll,
             "winner": self.winner,
+            "rolled_this_turn": self.rolled_this_turn,
+            "pending_trade_offer": self.pending_trade_offer,
+            "pending_trade_responder": self.pending_trade_responder,
             "hexes": [
                 {
                     "id": tile.id,
@@ -292,7 +300,10 @@ class GameState:
         if self.pending_phase == "setup_road":
             return [Action("build_road", {"edge_id": edge_id}) for edge_id in self.legal_setup_road_ids()]
         if self.pending_phase == "turn_start":
-            return [Action("roll_dice", {})]
+            actions = [Action("roll_dice", {})]
+            if not self.dev_card_played_this_turn:
+                actions.extend(self.legal_pre_roll_development_actions())
+            return actions
         if self.pending_phase == "robber_discard":
             player_id = self.pending_discard_players[0]
             return [
@@ -309,6 +320,13 @@ class GameState:
                 else:
                     actions.append(Action("move_robber", {"hex_id": hex_id, "victim_id": None}))
             return actions
+        if self.pending_phase == "trade_response":
+            if self.pending_trade_responder is None:
+                raise ActionError("Trade response phase is missing a responder.")
+            return [
+                Action("accept_trade", {"player_id": self.pending_trade_responder}),
+                Action("decline_trade", {"player_id": self.pending_trade_responder}),
+            ]
         if self.pending_phase == "road_building":
             road_ids = self.legal_road_ids(self.active_player, setup=False)
             actions = [Action("build_road_free", {"edge_id": edge_id}) for edge_id in road_ids]
@@ -327,7 +345,7 @@ class GameState:
             )
         actions.extend(Action("build_settlement", {"intersection_id": node_id}) for node_id in self.legal_settlement_ids(self.active_player))
         actions.extend(Action("build_city", {"intersection_id": node_id}) for node_id in self.legal_city_ids(self.active_player))
-        actions.extend(Action("trade_domestic", trade) for trade in self.legal_domestic_trades(self.active_player))
+        actions.extend(Action("propose_trade", trade) for trade in self.legal_domestic_trades(self.active_player))
         actions.extend(Action("trade_maritime", trade) for trade in self.legal_maritime_trades(self.active_player))
         if self.development_deck and self.can_afford(self.active_player, BUILD_COSTS["development_card"]):
             actions.append(Action("buy_development_card", {}))
@@ -356,6 +374,9 @@ class GameState:
                 actions.append(Action("play_monopoly", {"resource": resource_name}))
         return actions
 
+    def legal_pre_roll_development_actions(self) -> List[Action]:
+        return self.legal_development_card_actions()
+
     def apply_action(self, action: Action) -> None:
         if self.winner is not None:
             raise ActionError("The game is already over.")
@@ -376,9 +397,17 @@ class GameState:
             return
 
         if self.pending_phase == "turn_start":
-            if action_type != "roll_dice":
-                raise ActionError("You must roll dice at the start of the turn.")
-            self.roll_dice()
+            if action_type == "roll_dice":
+                self.roll_dice()
+                return
+            if action_type not in {
+                "play_knight",
+                "play_road_building",
+                "play_year_of_plenty",
+                "play_monopoly",
+            }:
+                raise ActionError("You must roll dice or play a development card first.")
+            self._apply_turn_action(action_type, params)
             return
 
         if self.pending_phase == "robber_discard":
@@ -393,10 +422,22 @@ class GameState:
             self._apply_robber_move(int(params["hex_id"]), params.get("victim_id"), action_type == "play_knight")
             return
 
+        if self.pending_phase == "trade_response":
+            if action_type not in {"accept_trade", "decline_trade"}:
+                raise ActionError("The responding player must accept or decline the trade.")
+            player_id = int(params["player_id"])
+            if player_id != self.pending_trade_responder:
+                raise ActionError("That player is not the current trade responder.")
+            if action_type == "accept_trade":
+                self._apply_accept_trade(player_id)
+            else:
+                self._apply_decline_trade(player_id)
+            return
+
         if self.pending_phase == "road_building":
             if action_type == "finish_road_building":
                 self.pending_road_building = 0
-                self.pending_phase = "main"
+                self.pending_phase = "main" if self.rolled_this_turn else "turn_start"
                 return
             if action_type != "build_road_free":
                 raise ActionError("Only free roads are allowed during Road Building.")
@@ -404,12 +445,15 @@ class GameState:
             self.pending_road_building -= 1
             if self.pending_road_building <= 0 or not self.legal_road_ids(self.active_player, setup=False):
                 self.pending_road_building = 0
-                self.pending_phase = "main"
+                self.pending_phase = "main" if self.rolled_this_turn else "turn_start"
             return
 
         if self.pending_phase != "main":
             raise ActionError(f"Unsupported phase: {self.pending_phase}")
 
+        self._apply_turn_action(action_type, params)
+
+    def _apply_turn_action(self, action_type: str, params: Dict[str, object]) -> None:
         if action_type == "end_turn":
             self.end_turn()
         elif action_type == "build_road":
@@ -418,9 +462,9 @@ class GameState:
             self._apply_build_settlement(int(params["intersection_id"]))
         elif action_type == "build_city":
             self._apply_build_city(int(params["intersection_id"]))
-        elif action_type == "trade_domestic":
-            self._apply_domestic_trade(
-                int(params["partner_id"]),
+        elif action_type == "propose_trade":
+            self._apply_propose_trade(
+                int(params["partner_id"]) if "partner_id" in params else -1,
                 str(params["give_resource"]),
                 str(params["receive_resource"]),
             )
@@ -506,8 +550,8 @@ class GameState:
             self.log(f"{player_label(self.active_player)} played a knight on hex H{hex_id}.")
         else:
             self.log(f"{player_label(self.active_player)} moved the robber to hex H{hex_id}.")
-        self.pending_phase = "main"
-        self.check_for_winner()
+        self.pending_phase = "main" if self.rolled_this_turn else "turn_start"
+        self.check_for_winner(force=played_as_knight and not self.rolled_this_turn)
 
     def _apply_build_road(self, edge_id: int, free: bool) -> None:
         if edge_id not in self.legal_road_ids(self.active_player, setup=False):
@@ -517,7 +561,7 @@ class GameState:
         self.place_road(self.active_player, edge_id)
         self.current_turn_road_builds += 1
         self.update_longest_road()
-        self.check_for_winner()
+        self.check_for_winner(force=self.dev_card_played_this_turn and not self.rolled_this_turn)
 
     def _apply_build_settlement(self, intersection_id: int) -> None:
         if intersection_id not in self.legal_settlement_ids(self.active_player):
@@ -550,29 +594,74 @@ class GameState:
             f"{player_label(self.active_player)} traded {rate} {give_resource} for 1 {receive_resource} with the bank."
         )
 
-    def _apply_domestic_trade(
+    def _apply_propose_trade(
         self,
         partner_id: int,
         give_resource: str,
         receive_resource: str,
     ) -> None:
+        del partner_id
         trade = {
-            "partner_id": partner_id,
             "give_resource": give_resource,
             "receive_resource": receive_resource,
         }
         if trade not in self.legal_domestic_trades(self.active_player):
             raise ActionError("That domestic trade is not currently legal.")
+        responders = [
+            player.player_id
+            for player in self.players
+            if player.player_id != self.active_player
+            and player.resources[receive_resource] > 0
+        ]
+        if not responders:
+            raise ActionError("No other player can currently accept that trade.")
+        self.pending_trade_offer = trade
+        self.pending_trade_responders = responders
+        self.pending_trade_responder = responders[0]
+        self.pending_phase = "trade_response"
+        self.log(
+            f"{player_label(self.active_player)} offered 1 {give_resource} for 1 {receive_resource} to all players."
+        )
+
+    def _apply_accept_trade(self, partner_id: int) -> None:
+        if self.pending_trade_offer is None:
+            raise ActionError("There is no pending trade offer.")
+        give_resource = str(self.pending_trade_offer["give_resource"])
+        receive_resource = str(self.pending_trade_offer["receive_resource"])
         actor = self.players[self.active_player]
         partner = self.players[partner_id]
+        if actor.resources[give_resource] <= 0 or partner.resources[receive_resource] <= 0:
+            raise ActionError("The trade can no longer be completed.")
         actor.resources[give_resource] -= 1
         partner.resources[give_resource] += 1
         partner.resources[receive_resource] -= 1
         actor.resources[receive_resource] += 1
         self.log(
-            f"{player_label(self.active_player)} traded 1 {give_resource} for 1 {receive_resource} "
-            f"with {player_label(partner_id)}."
+            f"{player_label(partner_id)} accepted. {player_label(self.active_player)} traded 1 {give_resource} "
+            f"for 1 {receive_resource} with {player_label(partner_id)}."
         )
+        self.pending_trade_offer = None
+        self.pending_trade_responders = []
+        self.pending_trade_responder = None
+        self.pending_phase = "main"
+
+    def _apply_decline_trade(self, partner_id: int) -> None:
+        if self.pending_trade_offer is None:
+            raise ActionError("There is no pending trade offer.")
+        self.log(f"{player_label(partner_id)} declined the trade offer.")
+        if self.pending_trade_responders and self.pending_trade_responders[0] == partner_id:
+            self.pending_trade_responders.pop(0)
+        else:
+            self.pending_trade_responders = [
+                responder for responder in self.pending_trade_responders if responder != partner_id
+            ]
+        if self.pending_trade_responders:
+            self.pending_trade_responder = self.pending_trade_responders[0]
+        else:
+            self.pending_trade_offer = None
+            self.pending_trade_responder = None
+            self.pending_phase = "main"
+            self.log("All players declined the trade offer.")
 
     def _apply_buy_development_card(self) -> None:
         if not self.development_deck:
@@ -605,6 +694,7 @@ class GameState:
         if roll < 2 or roll > 12:
             raise ActionError("Dice roll must be between 2 and 12.")
         self.last_roll = roll
+        self.rolled_this_turn = True
         self.log(f"{player_label(self.active_player)} rolled {roll}.")
         if roll == 7:
             self.pending_discard_players = [
@@ -625,10 +715,10 @@ class GameState:
         self.dev_card_played_this_turn = False
         self.current_turn_road_builds = 0
         self.last_roll = None
+        self.rolled_this_turn = False
         self.turn_number += 1
         self.pending_phase = "turn_start"
         self.log(f"Turn advanced to {player_label(self.active_player)}.")
-        self.check_for_winner(start_of_turn=True)
 
     def reveal_new_development_cards(self, player_id: int) -> None:
         player = self.players[player_id]
@@ -696,24 +786,28 @@ class GameState:
     def legal_domestic_trades(self, player_id: int) -> List[Dict[str, object]]:
         player = self.players[player_id]
         trades = []
-        for partner in self.players:
-            if partner.player_id == player_id:
+        receivable_resources = {
+            resource_name
+            for resource_name in RESOURCE_LIST
+            if any(
+                partner.player_id != player_id and partner.resources[resource_name] > 0
+                for partner in self.players
+            )
+        }
+        for give_resource in RESOURCE_LIST:
+            if player.resources[give_resource] <= 0:
                 continue
-            for give_resource in RESOURCE_LIST:
-                if player.resources[give_resource] <= 0:
+            for receive_resource in RESOURCE_LIST:
+                if receive_resource == give_resource:
                     continue
-                for receive_resource in RESOURCE_LIST:
-                    if receive_resource == give_resource:
-                        continue
-                    if partner.resources[receive_resource] <= 0:
-                        continue
-                    trades.append(
-                        {
-                            "partner_id": partner.player_id,
-                            "give_resource": give_resource,
-                            "receive_resource": receive_resource,
-                        }
-                    )
+                if receive_resource not in receivable_resources:
+                    continue
+                trades.append(
+                    {
+                        "give_resource": give_resource,
+                        "receive_resource": receive_resource,
+                    }
+                )
         return trades
 
     def legal_maritime_trades(self, player_id: int) -> List[Dict[str, object]]:
@@ -890,17 +984,30 @@ class GameState:
                         f"{player_label(owner)} received {amount} {resource_name} from roll {roll}."
                     )
                 continue
-            unique_players = {owner for owner, _ in claims}
-            if len(unique_players) == 1 and bank_available > 0:
-                owner = next(iter(unique_players))
-                distributed_any = True
-                self.take_bank_resource(owner, resource_name, bank_available)
-                self.log(
-                    f"{player_label(owner)} received {bank_available} {resource_name} from roll {roll} "
-                    f"(bank shortage)."
-                )
-            else:
+            claim_units = [
+                owner
+                for owner, amount in claims
+                for _ in range(amount)
+            ]
+            if bank_available <= 0:
                 self.log(f"Bank shortage prevented {resource_name} from being distributed.")
+                continue
+            distributed_any = True
+            unit_awards = {player.player_id: 0 for player in self.players}
+            if bank_available >= len(claim_units):
+                raise AssertionError("Shortage branch reached without shortage.")
+            shuffled_units = list(claim_units)
+            random.shuffle(shuffled_units)
+            for owner in shuffled_units[:bank_available]:
+                unit_awards[owner] += 1
+            for owner, amount in unit_awards.items():
+                if amount <= 0:
+                    continue
+                self.take_bank_resource(owner, resource_name, amount)
+                self.log(
+                    f"{player_label(owner)} received {amount} {resource_name} from roll {roll} "
+                    f"(bank shortage tie-break)."
+                )
         if not distributed_any:
             self.log(f"Roll {roll} produced no resources.")
 
@@ -1036,15 +1143,44 @@ class GameState:
         player = self.players[player_id]
         return self.visible_victory_points(player_id) + player.development_cards["victory_point"] + player.new_development_cards["victory_point"]
 
-    def check_for_winner(self, start_of_turn: bool = False) -> None:
+    def player_performance_summary(self, player_id: int) -> Dict[str, object]:
+        player = self.players[player_id]
+        hidden_vp = player.development_cards["victory_point"] + player.new_development_cards["victory_point"]
+        return {
+            "player_id": player_id,
+            "color_name": PLAYER_COLOR_NAMES[player_id],
+            "total_victory_points": self.total_victory_points(player_id),
+            "visible_victory_points": self.visible_victory_points(player_id),
+            "hidden_victory_points": hidden_vp,
+            "settlements_built": 5 - player.settlements_remaining,
+            "cities_built": 4 - player.cities_remaining,
+            "roads_built": 15 - player.roads_remaining,
+            "roads_remaining": player.roads_remaining,
+            "settlements_remaining": player.settlements_remaining,
+            "cities_remaining": player.cities_remaining,
+            "longest_road_length": self.compute_longest_road_length(player_id),
+            "played_knights": player.played_knights,
+            "has_longest_road": self.longest_road_owner == player_id,
+            "has_largest_army": self.largest_army_owner == player_id,
+            "total_resources": player.total_resources(),
+            "resources": dict(player.resources),
+            "development_cards": dict(player.development_cards),
+            "new_development_cards": dict(player.new_development_cards),
+            "total_development_cards": player.total_development_cards(),
+        }
+
+    def all_player_performance_summaries(self) -> List[Dict[str, object]]:
+        return [self.player_performance_summary(player.player_id) for player in self.players]
+
+    def check_for_winner(self, force: bool = False) -> None:
         if self.pending_phase in SETUP_PHASES:
             return
-        for player in self.players:
-            if self.total_victory_points(player.player_id) >= 10:
-                if start_of_turn and player.player_id == self.active_player:
-                    self.winner = player.player_id
-                elif player.player_id == self.active_player:
-                    self.winner = player.player_id
+        if not force and self.pending_phase in {"robber_discard", "robber_move", "trade_response", "turn_start"}:
+            return
+        if not force and not self.rolled_this_turn and not self.dev_card_played_this_turn:
+            return
+        if self.total_victory_points(self.active_player) >= 10:
+            self.winner = self.active_player
         if self.winner is not None:
             self.pending_phase = "game_over"
             self.log(
@@ -1474,18 +1610,28 @@ class SvgRenderer:
             radius = 5
             fill = "#f7f2e8"
             owner = None
+            piece = None
             if self.state:
                 if node.id in self.state.city_owners:
                     owner = self.state.city_owners[node.id]
+                    piece = "city"
                     radius = 11
                 elif node.id in self.state.settlement_owners:
                     owner = self.state.settlement_owners[node.id]
+                    piece = "settlement"
                     radius = 8
             if owner is not None:
                 fill = PLAYER_COLORS[owner]
-            svg_parts.append(
-                f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{radius}" fill="{fill}" stroke="#222222" stroke-width="2" />'
-            )
+            if piece == "city":
+                size = radius * 1.8
+                svg_parts.append(
+                    f'<rect x="{x - size / 2:.1f}" y="{y - size / 2:.1f}" width="{size:.1f}" height="{size:.1f}" '
+                    f'rx="2" fill="{fill}" stroke="#111111" stroke-width="3" />'
+                )
+            else:
+                svg_parts.append(
+                    f'<circle cx="{x:.1f}" cy="{y:.1f}" r="{radius}" fill="{fill}" stroke="#222222" stroke-width="2" />'
+                )
             svg_parts.append(
                 f'<text x="{x + 10:.1f}" y="{y - 4:.1f}" font-size="10" fill="#333333" font-family="Verdana">I{node.id}</text>'
             )

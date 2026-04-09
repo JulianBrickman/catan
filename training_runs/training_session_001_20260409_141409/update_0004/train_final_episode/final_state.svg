@@ -1,0 +1,348 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="979" height="920" viewBox="0 0 979 920">
+<rect width="100%" height="100%" fill="#f7f2e8" />
+<circle cx="139.0" cy="392.5" r="18" fill="#fdf8ef" stroke="#356f35" stroke-width="2" />
+<text x="139.0" y="397.5" text-anchor="middle" font-size="12" font-family="Verdana">LU 2:1</text>
+<circle cx="255.9" cy="190.0" r="18" fill="#fdf8ef" stroke="#2f4858" stroke-width="2" />
+<text x="255.9" y="195.0" text-anchor="middle" font-size="12" font-family="Verdana">3:1</text>
+<circle cx="528.7" cy="122.5" r="18" fill="#fdf8ef" stroke="#2f4858" stroke-width="2" />
+<text x="528.7" y="127.5" text-anchor="middle" font-size="12" font-family="Verdana">3:1</text>
+<circle cx="723.5" cy="190.0" r="18" fill="#fdf8ef" stroke="#c09b1e" stroke-width="2" />
+<text x="723.5" y="195.0" text-anchor="middle" font-size="12" font-family="Verdana">GR 2:1</text>
+<circle cx="840.5" cy="392.5" r="18" fill="#fdf8ef" stroke="#2f4858" stroke-width="2" />
+<text x="840.5" y="397.5" text-anchor="middle" font-size="12" font-family="Verdana">3:1</text>
+<circle cx="762.5" cy="662.5" r="18" fill="#fdf8ef" stroke="#2f4858" stroke-width="2" />
+<text x="762.5" y="667.5" text-anchor="middle" font-size="12" font-family="Verdana">3:1</text>
+<circle cx="606.6" cy="797.5" r="18" fill="#fdf8ef" stroke="#626873" stroke-width="2" />
+<text x="606.6" y="802.5" text-anchor="middle" font-size="12" font-family="Verdana">OR 2:1</text>
+<circle cx="372.8" cy="797.5" r="18" fill="#fdf8ef" stroke="#b84c34" stroke-width="2" />
+<text x="372.8" y="802.5" text-anchor="middle" font-size="12" font-family="Verdana">BR 2:1</text>
+<circle cx="177.9" cy="595.0" r="18" fill="#fdf8ef" stroke="#5a9f51" stroke-width="2" />
+<text x="177.9" y="600.0" text-anchor="middle" font-size="12" font-family="Verdana">WO 2:1</text>
+<polygon points="411.8,145.0 411.8,235.0 333.8,280.0 255.9,235.0 255.9,145.0 333.8,100.0" fill="#d9c27d" stroke="#47341f" stroke-width="2" />
+<text x="333.8" y="172.0" text-anchor="middle" font-size="12" font-family="Verdana">desert</text>
+<polygon points="567.7,145.0 567.7,235.0 489.7,280.0 411.8,235.0 411.8,145.0 489.7,100.0" fill="#4f8a4f" stroke="#47341f" stroke-width="2" />
+<text x="489.7" y="172.0" text-anchor="middle" font-size="12" font-family="Verdana">forest</text>
+<circle cx="489.7" cy="196.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="489.7" y="201.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#222222" font-family="Verdana">10</text>
+<polygon points="723.5,145.0 723.5,235.0 645.6,280.0 567.7,235.0 567.7,145.0 645.6,100.0" fill="#84c26d" stroke="#47341f" stroke-width="2" />
+<text x="645.6" y="172.0" text-anchor="middle" font-size="12" font-family="Verdana">pasture</text>
+<circle cx="645.6" cy="196.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="645.6" y="201.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#b11f18" font-family="Verdana">8</text>
+<polygon points="333.8,280.0 333.8,370.0 255.9,415.0 177.9,370.0 177.9,280.0 255.9,235.0" fill="#d9bf4b" stroke="#47341f" stroke-width="2" />
+<text x="255.9" y="307.0" text-anchor="middle" font-size="12" font-family="Verdana">fields</text>
+<circle cx="255.9" cy="331.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="255.9" y="336.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#222222" font-family="Verdana">9</text>
+<polygon points="489.7,280.0 489.7,370.0 411.8,415.0 333.8,370.0 333.8,280.0 411.8,235.0" fill="#cc704b" stroke="#47341f" stroke-width="2" />
+<text x="411.8" y="307.0" text-anchor="middle" font-size="12" font-family="Verdana">hills</text>
+<circle cx="411.8" cy="331.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="411.8" y="336.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#b11f18" font-family="Verdana">6</text>
+<polygon points="645.6,280.0 645.6,370.0 567.7,415.0 489.7,370.0 489.7,280.0 567.7,235.0" fill="#84c26d" stroke="#47341f" stroke-width="2" />
+<text x="567.7" y="307.0" text-anchor="middle" font-size="12" font-family="Verdana">pasture</text>
+<circle cx="567.7" cy="331.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="567.7" y="336.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#222222" font-family="Verdana">4</text>
+<polygon points="801.5,280.0 801.5,370.0 723.5,415.0 645.6,370.0 645.6,280.0 723.5,235.0" fill="#cc704b" stroke="#47341f" stroke-width="2" />
+<text x="723.5" y="307.0" text-anchor="middle" font-size="12" font-family="Verdana">hills</text>
+<circle cx="723.5" cy="331.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="723.5" y="336.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#222222" font-family="Verdana">11</text>
+<polygon points="255.9,415.0 255.9,505.0 177.9,550.0 100.0,505.0 100.0,415.0 177.9,370.0" fill="#8a8f98" stroke="#47341f" stroke-width="2" />
+<text x="177.9" y="442.0" text-anchor="middle" font-size="12" font-family="Verdana">mountains</text>
+<circle cx="177.9" cy="466.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="177.9" y="471.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#b11f18" font-family="Verdana">8</text>
+<polygon points="411.8,415.0 411.8,505.0 333.8,550.0 255.9,505.0 255.9,415.0 333.8,370.0" fill="#cc704b" stroke="#47341f" stroke-width="2" />
+<text x="333.8" y="442.0" text-anchor="middle" font-size="12" font-family="Verdana">hills</text>
+<circle cx="333.8" cy="466.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="333.8" y="471.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#222222" font-family="Verdana">3</text>
+<polygon points="567.7,415.0 567.7,505.0 489.7,550.0 411.8,505.0 411.8,415.0 489.7,370.0" fill="#d9bf4b" stroke="#47341f" stroke-width="2" />
+<text x="489.7" y="442.0" text-anchor="middle" font-size="12" font-family="Verdana">fields</text>
+<circle cx="489.7" cy="466.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="489.7" y="471.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#222222" font-family="Verdana">5</text>
+<polygon points="723.5,415.0 723.5,505.0 645.6,550.0 567.7,505.0 567.7,415.0 645.6,370.0" fill="#84c26d" stroke="#47341f" stroke-width="2" />
+<text x="645.6" y="442.0" text-anchor="middle" font-size="12" font-family="Verdana">pasture</text>
+<circle cx="645.6" cy="466.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="645.6" y="471.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#222222" font-family="Verdana">2</text>
+<polygon points="879.4,415.0 879.4,505.0 801.5,550.0 723.5,505.0 723.5,415.0 801.5,370.0" fill="#84c26d" stroke="#47341f" stroke-width="2" />
+<text x="801.5" y="442.0" text-anchor="middle" font-size="12" font-family="Verdana">pasture</text>
+<circle cx="801.5" cy="466.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="801.5" y="471.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#222222" font-family="Verdana">11</text>
+<polygon points="333.8,550.0 333.8,640.0 255.9,685.0 177.9,640.0 177.9,550.0 255.9,505.0" fill="#8a8f98" stroke="#47341f" stroke-width="2" />
+<text x="255.9" y="577.0" text-anchor="middle" font-size="12" font-family="Verdana">mountains</text>
+<circle cx="255.9" cy="601.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="255.9" y="606.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#222222" font-family="Verdana">5</text>
+<polygon points="489.7,550.0 489.7,640.0 411.8,685.0 333.8,640.0 333.8,550.0 411.8,505.0" fill="#4f8a4f" stroke="#47341f" stroke-width="2" />
+<text x="411.8" y="577.0" text-anchor="middle" font-size="12" font-family="Verdana">forest</text>
+<circle cx="411.8" cy="601.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="411.8" y="606.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#222222" font-family="Verdana">3</text>
+<polygon points="645.6,550.0 645.6,640.0 567.7,685.0 489.7,640.0 489.7,550.0 567.7,505.0" fill="#4f8a4f" stroke="#47341f" stroke-width="2" />
+<text x="567.7" y="577.0" text-anchor="middle" font-size="12" font-family="Verdana">forest</text>
+<circle cx="567.7" cy="601.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="567.7" y="606.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#222222" font-family="Verdana">12</text>
+<polygon points="801.5,550.0 801.5,640.0 723.5,685.0 645.6,640.0 645.6,550.0 723.5,505.0" fill="#d9bf4b" stroke="#47341f" stroke-width="2" />
+<text x="723.5" y="577.0" text-anchor="middle" font-size="12" font-family="Verdana">fields</text>
+<circle cx="723.5" cy="601.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="723.5" y="606.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#222222" font-family="Verdana">4</text>
+<polygon points="411.8,685.0 411.8,775.0 333.8,820.0 255.9,775.0 255.9,685.0 333.8,640.0" fill="#d9bf4b" stroke="#47341f" stroke-width="2" />
+<text x="333.8" y="712.0" text-anchor="middle" font-size="12" font-family="Verdana">fields</text>
+<circle cx="333.8" cy="736.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="333.8" y="741.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#222222" font-family="Verdana">9</text>
+<rect x="325.8" y="678.0" width="16" height="24" rx="4" fill="#1f1f1f" />
+<polygon points="567.7,685.0 567.7,775.0 489.7,820.0 411.8,775.0 411.8,685.0 489.7,640.0" fill="#4f8a4f" stroke="#47341f" stroke-width="2" />
+<text x="489.7" y="712.0" text-anchor="middle" font-size="12" font-family="Verdana">forest</text>
+<circle cx="489.7" cy="736.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="489.7" y="741.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#b11f18" font-family="Verdana">6</text>
+<polygon points="723.5,685.0 723.5,775.0 645.6,820.0 567.7,775.0 567.7,685.0 645.6,640.0" fill="#8a8f98" stroke="#47341f" stroke-width="2" />
+<text x="645.6" y="712.0" text-anchor="middle" font-size="12" font-family="Verdana">mountains</text>
+<circle cx="645.6" cy="736.0" r="16" fill="#faf4dd" stroke="#47341f" stroke-width="2" />
+<text x="645.6" y="741.0" text-anchor="middle" font-size="16" font-weight="bold" fill="#222222" font-family="Verdana">10</text>
+<line x1="411.8" y1="145.0" x2="411.8" y2="235.0" stroke="#d99a00" stroke-width="8" stroke-linecap="round" />
+<text x="417.8" y="202.0" font-size="9" fill="#5a4e40" font-family="Verdana">E0</text>
+<line x1="411.8" y1="235.0" x2="333.8" y2="280.0" stroke="#d99a00" stroke-width="8" stroke-linecap="round" />
+<text x="378.8" y="269.5" font-size="9" fill="#5a4e40" font-family="Verdana">E1</text>
+<line x1="333.8" y1="280.0" x2="255.9" y2="235.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="300.9" y="269.5" font-size="9" fill="#5a4e40" font-family="Verdana">E2</text>
+<line x1="255.9" y1="235.0" x2="255.9" y2="145.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="261.9" y="202.0" font-size="9" fill="#5a4e40" font-family="Verdana">E3</text>
+<line x1="255.9" y1="145.0" x2="333.8" y2="100.0" stroke="#2f6fed" stroke-width="8" stroke-linecap="round" />
+<text x="300.9" y="134.5" font-size="9" fill="#5a4e40" font-family="Verdana">E4</text>
+<line x1="411.8" y1="145.0" x2="333.8" y2="100.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="378.8" y="134.5" font-size="9" fill="#5a4e40" font-family="Verdana">E5</text>
+<line x1="567.7" y1="145.0" x2="567.7" y2="235.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="573.7" y="202.0" font-size="9" fill="#5a4e40" font-family="Verdana">E6</text>
+<line x1="567.7" y1="235.0" x2="489.7" y2="280.0" stroke="#d99a00" stroke-width="8" stroke-linecap="round" />
+<text x="534.7" y="269.5" font-size="9" fill="#5a4e40" font-family="Verdana">E7</text>
+<line x1="411.8" y1="235.0" x2="489.7" y2="280.0" stroke="#d99a00" stroke-width="8" stroke-linecap="round" />
+<text x="456.7" y="269.5" font-size="9" fill="#5a4e40" font-family="Verdana">E8</text>
+<line x1="411.8" y1="145.0" x2="489.7" y2="100.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="456.7" y="134.5" font-size="9" fill="#5a4e40" font-family="Verdana">E9</text>
+<line x1="567.7" y1="145.0" x2="489.7" y2="100.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="534.7" y="134.5" font-size="9" fill="#5a4e40" font-family="Verdana">E10</text>
+<line x1="723.5" y1="145.0" x2="723.5" y2="235.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="729.5" y="202.0" font-size="9" fill="#5a4e40" font-family="Verdana">E11</text>
+<line x1="723.5" y1="235.0" x2="645.6" y2="280.0" stroke="#2d8a4b" stroke-width="8" stroke-linecap="round" />
+<text x="690.6" y="269.5" font-size="9" fill="#5a4e40" font-family="Verdana">E12</text>
+<line x1="567.7" y1="235.0" x2="645.6" y2="280.0" stroke="#2d8a4b" stroke-width="8" stroke-linecap="round" />
+<text x="612.6" y="269.5" font-size="9" fill="#5a4e40" font-family="Verdana">E13</text>
+<line x1="567.7" y1="145.0" x2="645.6" y2="100.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="612.6" y="134.5" font-size="9" fill="#5a4e40" font-family="Verdana">E14</text>
+<line x1="723.5" y1="145.0" x2="645.6" y2="100.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="690.6" y="134.5" font-size="9" fill="#5a4e40" font-family="Verdana">E15</text>
+<line x1="333.8" y1="280.0" x2="333.8" y2="370.0" stroke="#d99a00" stroke-width="8" stroke-linecap="round" />
+<text x="339.8" y="337.0" font-size="9" fill="#5a4e40" font-family="Verdana">E16</text>
+<line x1="333.8" y1="370.0" x2="255.9" y2="415.0" stroke="#d99a00" stroke-width="8" stroke-linecap="round" />
+<text x="300.9" y="404.5" font-size="9" fill="#5a4e40" font-family="Verdana">E17</text>
+<line x1="255.9" y1="415.0" x2="177.9" y2="370.0" stroke="#d99a00" stroke-width="8" stroke-linecap="round" />
+<text x="222.9" y="404.5" font-size="9" fill="#5a4e40" font-family="Verdana">E18</text>
+<line x1="177.9" y1="370.0" x2="177.9" y2="280.0" stroke="#d99a00" stroke-width="8" stroke-linecap="round" />
+<text x="183.9" y="337.0" font-size="9" fill="#5a4e40" font-family="Verdana">E19</text>
+<line x1="255.9" y1="235.0" x2="177.9" y2="280.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="222.9" y="269.5" font-size="9" fill="#5a4e40" font-family="Verdana">E20</text>
+<line x1="489.7" y1="280.0" x2="489.7" y2="370.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="495.7" y="337.0" font-size="9" fill="#5a4e40" font-family="Verdana">E21</text>
+<line x1="489.7" y1="370.0" x2="411.8" y2="415.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="456.7" y="404.5" font-size="9" fill="#5a4e40" font-family="Verdana">E22</text>
+<line x1="333.8" y1="370.0" x2="411.8" y2="415.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="378.8" y="404.5" font-size="9" fill="#5a4e40" font-family="Verdana">E23</text>
+<line x1="645.6" y1="280.0" x2="645.6" y2="370.0" stroke="#2d8a4b" stroke-width="8" stroke-linecap="round" />
+<text x="651.6" y="337.0" font-size="9" fill="#5a4e40" font-family="Verdana">E24</text>
+<line x1="645.6" y1="370.0" x2="567.7" y2="415.0" stroke="#2d8a4b" stroke-width="8" stroke-linecap="round" />
+<text x="612.6" y="404.5" font-size="9" fill="#5a4e40" font-family="Verdana">E25</text>
+<line x1="489.7" y1="370.0" x2="567.7" y2="415.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="534.7" y="404.5" font-size="9" fill="#5a4e40" font-family="Verdana">E26</text>
+<line x1="801.5" y1="280.0" x2="801.5" y2="370.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="807.5" y="337.0" font-size="9" fill="#5a4e40" font-family="Verdana">E27</text>
+<line x1="801.5" y1="370.0" x2="723.5" y2="415.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="768.5" y="404.5" font-size="9" fill="#5a4e40" font-family="Verdana">E28</text>
+<line x1="645.6" y1="370.0" x2="723.5" y2="415.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="690.6" y="404.5" font-size="9" fill="#5a4e40" font-family="Verdana">E29</text>
+<line x1="723.5" y1="235.0" x2="801.5" y2="280.0" stroke="#2d8a4b" stroke-width="8" stroke-linecap="round" />
+<text x="768.5" y="269.5" font-size="9" fill="#5a4e40" font-family="Verdana">E30</text>
+<line x1="255.9" y1="415.0" x2="255.9" y2="505.0" stroke="#d94841" stroke-width="8" stroke-linecap="round" />
+<text x="261.9" y="472.0" font-size="9" fill="#5a4e40" font-family="Verdana">E31</text>
+<line x1="255.9" y1="505.0" x2="177.9" y2="550.0" stroke="#d94841" stroke-width="8" stroke-linecap="round" />
+<text x="222.9" y="539.5" font-size="9" fill="#5a4e40" font-family="Verdana">E32</text>
+<line x1="177.9" y1="550.0" x2="100.0" y2="505.0" stroke="#d94841" stroke-width="8" stroke-linecap="round" />
+<text x="145.0" y="539.5" font-size="9" fill="#5a4e40" font-family="Verdana">E33</text>
+<line x1="100.0" y1="505.0" x2="100.0" y2="415.0" stroke="#d94841" stroke-width="8" stroke-linecap="round" />
+<text x="106.0" y="472.0" font-size="9" fill="#5a4e40" font-family="Verdana">E34</text>
+<line x1="177.9" y1="370.0" x2="100.0" y2="415.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="145.0" y="404.5" font-size="9" fill="#5a4e40" font-family="Verdana">E35</text>
+<line x1="411.8" y1="415.0" x2="411.8" y2="505.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="417.8" y="472.0" font-size="9" fill="#5a4e40" font-family="Verdana">E36</text>
+<line x1="411.8" y1="505.0" x2="333.8" y2="550.0" stroke="#d94841" stroke-width="8" stroke-linecap="round" />
+<text x="378.8" y="539.5" font-size="9" fill="#5a4e40" font-family="Verdana">E37</text>
+<line x1="255.9" y1="505.0" x2="333.8" y2="550.0" stroke="#d94841" stroke-width="8" stroke-linecap="round" />
+<text x="300.9" y="539.5" font-size="9" fill="#5a4e40" font-family="Verdana">E38</text>
+<line x1="567.7" y1="415.0" x2="567.7" y2="505.0" stroke="#2d8a4b" stroke-width="8" stroke-linecap="round" />
+<text x="573.7" y="472.0" font-size="9" fill="#5a4e40" font-family="Verdana">E39</text>
+<line x1="567.7" y1="505.0" x2="489.7" y2="550.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="534.7" y="539.5" font-size="9" fill="#5a4e40" font-family="Verdana">E40</text>
+<line x1="411.8" y1="505.0" x2="489.7" y2="550.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="456.7" y="539.5" font-size="9" fill="#5a4e40" font-family="Verdana">E41</text>
+<line x1="723.5" y1="415.0" x2="723.5" y2="505.0" stroke="#2f6fed" stroke-width="8" stroke-linecap="round" />
+<text x="729.5" y="472.0" font-size="9" fill="#5a4e40" font-family="Verdana">E42</text>
+<line x1="723.5" y1="505.0" x2="645.6" y2="550.0" stroke="#2d8a4b" stroke-width="8" stroke-linecap="round" />
+<text x="690.6" y="539.5" font-size="9" fill="#5a4e40" font-family="Verdana">E43</text>
+<line x1="567.7" y1="505.0" x2="645.6" y2="550.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="612.6" y="539.5" font-size="9" fill="#5a4e40" font-family="Verdana">E44</text>
+<line x1="879.4" y1="415.0" x2="879.4" y2="505.0" stroke="#2f6fed" stroke-width="8" stroke-linecap="round" />
+<text x="885.4" y="472.0" font-size="9" fill="#5a4e40" font-family="Verdana">E45</text>
+<line x1="879.4" y1="505.0" x2="801.5" y2="550.0" stroke="#2f6fed" stroke-width="8" stroke-linecap="round" />
+<text x="846.5" y="539.5" font-size="9" fill="#5a4e40" font-family="Verdana">E46</text>
+<line x1="723.5" y1="505.0" x2="801.5" y2="550.0" stroke="#2f6fed" stroke-width="8" stroke-linecap="round" />
+<text x="768.5" y="539.5" font-size="9" fill="#5a4e40" font-family="Verdana">E47</text>
+<line x1="801.5" y1="370.0" x2="879.4" y2="415.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="846.5" y="404.5" font-size="9" fill="#5a4e40" font-family="Verdana">E48</text>
+<line x1="333.8" y1="550.0" x2="333.8" y2="640.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="339.8" y="607.0" font-size="9" fill="#5a4e40" font-family="Verdana">E49</text>
+<line x1="333.8" y1="640.0" x2="255.9" y2="685.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="300.9" y="674.5" font-size="9" fill="#5a4e40" font-family="Verdana">E50</text>
+<line x1="255.9" y1="685.0" x2="177.9" y2="640.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="222.9" y="674.5" font-size="9" fill="#5a4e40" font-family="Verdana">E51</text>
+<line x1="177.9" y1="550.0" x2="177.9" y2="640.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="183.9" y="607.0" font-size="9" fill="#5a4e40" font-family="Verdana">E52</text>
+<line x1="489.7" y1="550.0" x2="489.7" y2="640.0" stroke="#2d8a4b" stroke-width="8" stroke-linecap="round" />
+<text x="495.7" y="607.0" font-size="9" fill="#5a4e40" font-family="Verdana">E53</text>
+<line x1="489.7" y1="640.0" x2="411.8" y2="685.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="456.7" y="674.5" font-size="9" fill="#5a4e40" font-family="Verdana">E54</text>
+<line x1="333.8" y1="640.0" x2="411.8" y2="685.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="378.8" y="674.5" font-size="9" fill="#5a4e40" font-family="Verdana">E55</text>
+<line x1="645.6" y1="550.0" x2="645.6" y2="640.0" stroke="#2d8a4b" stroke-width="8" stroke-linecap="round" />
+<text x="651.6" y="607.0" font-size="9" fill="#5a4e40" font-family="Verdana">E56</text>
+<line x1="645.6" y1="640.0" x2="567.7" y2="685.0" stroke="#2d8a4b" stroke-width="8" stroke-linecap="round" />
+<text x="612.6" y="674.5" font-size="9" fill="#5a4e40" font-family="Verdana">E57</text>
+<line x1="489.7" y1="640.0" x2="567.7" y2="685.0" stroke="#2d8a4b" stroke-width="8" stroke-linecap="round" />
+<text x="534.7" y="674.5" font-size="9" fill="#5a4e40" font-family="Verdana">E58</text>
+<line x1="801.5" y1="550.0" x2="801.5" y2="640.0" stroke="#2f6fed" stroke-width="8" stroke-linecap="round" />
+<text x="807.5" y="607.0" font-size="9" fill="#5a4e40" font-family="Verdana">E59</text>
+<line x1="801.5" y1="640.0" x2="723.5" y2="685.0" stroke="#d99a00" stroke-width="8" stroke-linecap="round" />
+<text x="768.5" y="674.5" font-size="9" fill="#5a4e40" font-family="Verdana">E60</text>
+<line x1="645.6" y1="640.0" x2="723.5" y2="685.0" stroke="#2d8a4b" stroke-width="8" stroke-linecap="round" />
+<text x="690.6" y="674.5" font-size="9" fill="#5a4e40" font-family="Verdana">E61</text>
+<line x1="411.8" y1="685.0" x2="411.8" y2="775.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="417.8" y="742.0" font-size="9" fill="#5a4e40" font-family="Verdana">E62</text>
+<line x1="411.8" y1="775.0" x2="333.8" y2="820.0" stroke="#d94841" stroke-width="8" stroke-linecap="round" />
+<text x="378.8" y="809.5" font-size="9" fill="#5a4e40" font-family="Verdana">E63</text>
+<line x1="333.8" y1="820.0" x2="255.9" y2="775.0" stroke="#d94841" stroke-width="8" stroke-linecap="round" />
+<text x="300.9" y="809.5" font-size="9" fill="#5a4e40" font-family="Verdana">E64</text>
+<line x1="255.9" y1="685.0" x2="255.9" y2="775.0" stroke="#d94841" stroke-width="8" stroke-linecap="round" />
+<text x="261.9" y="742.0" font-size="9" fill="#5a4e40" font-family="Verdana">E65</text>
+<line x1="567.7" y1="685.0" x2="567.7" y2="775.0" stroke="#2d8a4b" stroke-width="8" stroke-linecap="round" />
+<text x="573.7" y="742.0" font-size="9" fill="#5a4e40" font-family="Verdana">E66</text>
+<line x1="567.7" y1="775.0" x2="489.7" y2="820.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="534.7" y="809.5" font-size="9" fill="#5a4e40" font-family="Verdana">E67</text>
+<line x1="411.8" y1="775.0" x2="489.7" y2="820.0" stroke="#786858" stroke-width="3" stroke-linecap="round" />
+<text x="456.7" y="809.5" font-size="9" fill="#5a4e40" font-family="Verdana">E68</text>
+<line x1="723.5" y1="685.0" x2="723.5" y2="775.0" stroke="#d99a00" stroke-width="8" stroke-linecap="round" />
+<text x="729.5" y="742.0" font-size="9" fill="#5a4e40" font-family="Verdana">E69</text>
+<line x1="723.5" y1="775.0" x2="645.6" y2="820.0" stroke="#2d8a4b" stroke-width="8" stroke-linecap="round" />
+<text x="690.6" y="809.5" font-size="9" fill="#5a4e40" font-family="Verdana">E70</text>
+<line x1="567.7" y1="775.0" x2="645.6" y2="820.0" stroke="#2d8a4b" stroke-width="8" stroke-linecap="round" />
+<text x="612.6" y="809.5" font-size="9" fill="#5a4e40" font-family="Verdana">E71</text>
+<circle cx="411.8" cy="145.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="421.8" y="141.0" font-size="10" fill="#333333" font-family="Verdana">I0</text>
+<circle cx="411.8" cy="235.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="421.8" y="231.0" font-size="10" fill="#333333" font-family="Verdana">I1</text>
+<circle cx="333.8" cy="280.0" r="11" fill="#d99a00" stroke="#222222" stroke-width="2" />
+<text x="343.8" y="276.0" font-size="10" fill="#333333" font-family="Verdana">I2</text>
+<circle cx="255.9" cy="235.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="265.9" y="231.0" font-size="10" fill="#333333" font-family="Verdana">I3</text>
+<circle cx="255.9" cy="145.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="265.9" y="141.0" font-size="10" fill="#333333" font-family="Verdana">I4</text>
+<circle cx="333.8" cy="100.0" r="8" fill="#2f6fed" stroke="#222222" stroke-width="2" />
+<text x="343.8" y="96.0" font-size="10" fill="#333333" font-family="Verdana">I5</text>
+<circle cx="567.7" cy="145.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="577.7" y="141.0" font-size="10" fill="#333333" font-family="Verdana">I6</text>
+<circle cx="567.7" cy="235.0" r="8" fill="#2d8a4b" stroke="#222222" stroke-width="2" />
+<text x="577.7" y="231.0" font-size="10" fill="#333333" font-family="Verdana">I7</text>
+<circle cx="489.7" cy="280.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="499.7" y="276.0" font-size="10" fill="#333333" font-family="Verdana">I8</text>
+<circle cx="489.7" cy="100.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="499.7" y="96.0" font-size="10" fill="#333333" font-family="Verdana">I9</text>
+<circle cx="723.5" cy="145.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="733.5" y="141.0" font-size="10" fill="#333333" font-family="Verdana">I10</text>
+<circle cx="723.5" cy="235.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="733.5" y="231.0" font-size="10" fill="#333333" font-family="Verdana">I11</text>
+<circle cx="645.6" cy="280.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="655.6" y="276.0" font-size="10" fill="#333333" font-family="Verdana">I12</text>
+<circle cx="645.6" cy="100.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="655.6" y="96.0" font-size="10" fill="#333333" font-family="Verdana">I13</text>
+<circle cx="333.8" cy="370.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="343.8" y="366.0" font-size="10" fill="#333333" font-family="Verdana">I14</text>
+<circle cx="255.9" cy="415.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="265.9" y="411.0" font-size="10" fill="#333333" font-family="Verdana">I15</text>
+<circle cx="177.9" cy="370.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="187.9" y="366.0" font-size="10" fill="#333333" font-family="Verdana">I16</text>
+<circle cx="177.9" cy="280.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="187.9" y="276.0" font-size="10" fill="#333333" font-family="Verdana">I17</text>
+<circle cx="489.7" cy="370.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="499.7" y="366.0" font-size="10" fill="#333333" font-family="Verdana">I18</text>
+<circle cx="411.8" cy="415.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="421.8" y="411.0" font-size="10" fill="#333333" font-family="Verdana">I19</text>
+<circle cx="645.6" cy="370.0" r="8" fill="#2d8a4b" stroke="#222222" stroke-width="2" />
+<text x="655.6" y="366.0" font-size="10" fill="#333333" font-family="Verdana">I20</text>
+<circle cx="567.7" cy="415.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="577.7" y="411.0" font-size="10" fill="#333333" font-family="Verdana">I21</text>
+<circle cx="801.5" cy="280.0" r="8" fill="#2d8a4b" stroke="#222222" stroke-width="2" />
+<text x="811.5" y="276.0" font-size="10" fill="#333333" font-family="Verdana">I22</text>
+<circle cx="801.5" cy="370.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="811.5" y="366.0" font-size="10" fill="#333333" font-family="Verdana">I23</text>
+<circle cx="723.5" cy="415.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="733.5" y="411.0" font-size="10" fill="#333333" font-family="Verdana">I24</text>
+<circle cx="255.9" cy="505.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="265.9" y="501.0" font-size="10" fill="#333333" font-family="Verdana">I25</text>
+<circle cx="177.9" cy="550.0" r="11" fill="#d94841" stroke="#222222" stroke-width="2" />
+<text x="187.9" y="546.0" font-size="10" fill="#333333" font-family="Verdana">I26</text>
+<circle cx="100.0" cy="505.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="110.0" y="501.0" font-size="10" fill="#333333" font-family="Verdana">I27</text>
+<circle cx="100.0" cy="415.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="110.0" y="411.0" font-size="10" fill="#333333" font-family="Verdana">I28</text>
+<circle cx="411.8" cy="505.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="421.8" y="501.0" font-size="10" fill="#333333" font-family="Verdana">I29</text>
+<circle cx="333.8" cy="550.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="343.8" y="546.0" font-size="10" fill="#333333" font-family="Verdana">I30</text>
+<circle cx="567.7" cy="505.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="577.7" y="501.0" font-size="10" fill="#333333" font-family="Verdana">I31</text>
+<circle cx="489.7" cy="550.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="499.7" y="546.0" font-size="10" fill="#333333" font-family="Verdana">I32</text>
+<circle cx="723.5" cy="505.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="733.5" y="501.0" font-size="10" fill="#333333" font-family="Verdana">I33</text>
+<circle cx="645.6" cy="550.0" r="8" fill="#2d8a4b" stroke="#222222" stroke-width="2" />
+<text x="655.6" y="546.0" font-size="10" fill="#333333" font-family="Verdana">I34</text>
+<circle cx="879.4" cy="415.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="889.4" y="411.0" font-size="10" fill="#333333" font-family="Verdana">I35</text>
+<circle cx="879.4" cy="505.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="889.4" y="501.0" font-size="10" fill="#333333" font-family="Verdana">I36</text>
+<circle cx="801.5" cy="550.0" r="8" fill="#2f6fed" stroke="#222222" stroke-width="2" />
+<text x="811.5" y="546.0" font-size="10" fill="#333333" font-family="Verdana">I37</text>
+<circle cx="333.8" cy="640.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="343.8" y="636.0" font-size="10" fill="#333333" font-family="Verdana">I38</text>
+<circle cx="255.9" cy="685.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="265.9" y="681.0" font-size="10" fill="#333333" font-family="Verdana">I39</text>
+<circle cx="177.9" cy="640.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="187.9" y="636.0" font-size="10" fill="#333333" font-family="Verdana">I40</text>
+<circle cx="489.7" cy="640.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="499.7" y="636.0" font-size="10" fill="#333333" font-family="Verdana">I41</text>
+<circle cx="411.8" cy="685.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="421.8" y="681.0" font-size="10" fill="#333333" font-family="Verdana">I42</text>
+<circle cx="645.6" cy="640.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="655.6" y="636.0" font-size="10" fill="#333333" font-family="Verdana">I43</text>
+<circle cx="567.7" cy="685.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="577.7" y="681.0" font-size="10" fill="#333333" font-family="Verdana">I44</text>
+<circle cx="801.5" cy="640.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="811.5" y="636.0" font-size="10" fill="#333333" font-family="Verdana">I45</text>
+<circle cx="723.5" cy="685.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="733.5" y="681.0" font-size="10" fill="#333333" font-family="Verdana">I46</text>
+<circle cx="411.8" cy="775.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="421.8" y="771.0" font-size="10" fill="#333333" font-family="Verdana">I47</text>
+<circle cx="333.8" cy="820.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="343.8" y="816.0" font-size="10" fill="#333333" font-family="Verdana">I48</text>
+<circle cx="255.9" cy="775.0" r="11" fill="#d94841" stroke="#222222" stroke-width="2" />
+<text x="265.9" y="771.0" font-size="10" fill="#333333" font-family="Verdana">I49</text>
+<circle cx="567.7" cy="775.0" r="8" fill="#2d8a4b" stroke="#222222" stroke-width="2" />
+<text x="577.7" y="771.0" font-size="10" fill="#333333" font-family="Verdana">I50</text>
+<circle cx="489.7" cy="820.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="499.7" y="816.0" font-size="10" fill="#333333" font-family="Verdana">I51</text>
+<circle cx="723.5" cy="775.0" r="11" fill="#d99a00" stroke="#222222" stroke-width="2" />
+<text x="733.5" y="771.0" font-size="10" fill="#333333" font-family="Verdana">I52</text>
+<circle cx="645.6" cy="820.0" r="5" fill="#f7f2e8" stroke="#222222" stroke-width="2" />
+<text x="655.6" y="816.0" font-size="10" fill="#333333" font-family="Verdana">I53</text>
+</svg>
