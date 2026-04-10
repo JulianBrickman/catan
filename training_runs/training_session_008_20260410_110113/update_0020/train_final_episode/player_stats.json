@@ -1,0 +1,162 @@
+[
+  {
+    "player_id": 0,
+    "color_name": "Red",
+    "total_victory_points": 10,
+    "visible_victory_points": 9,
+    "hidden_victory_points": 1,
+    "settlements_built": 5,
+    "cities_built": 0,
+    "roads_built": 15,
+    "roads_remaining": 0,
+    "settlements_remaining": 0,
+    "cities_remaining": 4,
+    "longest_road_length": 11,
+    "played_knights": 3,
+    "has_longest_road": true,
+    "has_largest_army": true,
+    "total_resources": 5,
+    "resources": {
+      "brick": 1,
+      "lumber": 1,
+      "ore": 2,
+      "grain": 1,
+      "wool": 0
+    },
+    "development_cards": {
+      "knight": 0,
+      "road_building": 0,
+      "year_of_plenty": 0,
+      "monopoly": 0,
+      "victory_point": 1
+    },
+    "new_development_cards": {
+      "knight": 0,
+      "road_building": 0,
+      "year_of_plenty": 0,
+      "monopoly": 0,
+      "victory_point": 0
+    },
+    "total_development_cards": 1
+  },
+  {
+    "player_id": 1,
+    "color_name": "Blue",
+    "total_victory_points": 2,
+    "visible_victory_points": 2,
+    "hidden_victory_points": 0,
+    "settlements_built": 2,
+    "cities_built": 0,
+    "roads_built": 3,
+    "roads_remaining": 12,
+    "settlements_remaining": 3,
+    "cities_remaining": 4,
+    "longest_road_length": 2,
+    "played_knights": 0,
+    "has_longest_road": false,
+    "has_largest_army": false,
+    "total_resources": 7,
+    "resources": {
+      "brick": 0,
+      "lumber": 3,
+      "ore": 3,
+      "grain": 1,
+      "wool": 0
+    },
+    "development_cards": {
+      "knight": 0,
+      "road_building": 0,
+      "year_of_plenty": 0,
+      "monopoly": 0,
+      "victory_point": 0
+    },
+    "new_development_cards": {
+      "knight": 0,
+      "road_building": 0,
+      "year_of_plenty": 0,
+      "monopoly": 0,
+      "victory_point": 0
+    },
+    "total_development_cards": 0
+  },
+  {
+    "player_id": 2,
+    "color_name": "Teal",
+    "total_victory_points": 5,
+    "visible_victory_points": 4,
+    "hidden_victory_points": 1,
+    "settlements_built": 4,
+    "cities_built": 0,
+    "roads_built": 15,
+    "roads_remaining": 0,
+    "settlements_remaining": 1,
+    "cities_remaining": 4,
+    "longest_road_length": 5,
+    "played_knights": 0,
+    "has_longest_road": false,
+    "has_largest_army": false,
+    "total_resources": 4,
+    "resources": {
+      "brick": 0,
+      "lumber": 1,
+      "ore": 1,
+      "grain": 2,
+      "wool": 0
+    },
+    "development_cards": {
+      "knight": 0,
+      "road_building": 0,
+      "year_of_plenty": 0,
+      "monopoly": 0,
+      "victory_point": 1
+    },
+    "new_development_cards": {
+      "knight": 0,
+      "road_building": 0,
+      "year_of_plenty": 0,
+      "monopoly": 0,
+      "victory_point": 0
+    },
+    "total_development_cards": 1
+  },
+  {
+    "player_id": 3,
+    "color_name": "Purple",
+    "total_victory_points": 3,
+    "visible_victory_points": 3,
+    "hidden_victory_points": 0,
+    "settlements_built": 3,
+    "cities_built": 0,
+    "roads_built": 6,
+    "roads_remaining": 9,
+    "settlements_remaining": 2,
+    "cities_remaining": 4,
+    "longest_road_length": 3,
+    "played_knights": 2,
+    "has_longest_road": false,
+    "has_largest_army": false,
+    "total_resources": 2,
+    "resources": {
+      "brick": 1,
+      "lumber": 0,
+      "ore": 0,
+      "grain": 0,
+      "wool": 1
+    },
+    "development_cards": {
+      "knight": 0,
+      "road_building": 0,
+      "year_of_plenty": 0,
+      "monopoly": 0,
+      "victory_point": 0
+    },
+    "new_development_cards": {
+      "knight": 0,
+      "road_building": 0,
+      "year_of_plenty": 0,
+      "monopoly": 0,
+      "victory_point": 0
+    },
+    "total_development_cards": 0
+  }
+]

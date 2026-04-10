@@ -1,0 +1,53 @@
+{
+  "env_config": {
+    "num_players": 4,
+    "seed": 7,
+    "allow_domestic_trade": false,
+    "max_turns": 1000,
+    "reward_config": {
+      "weights": {
+        "placement_score": 1.0,
+        "win": 0.0,
+        "final_vp": 0.0,
+        "vp_gain": 0.05,
+        "moves_taken": 0.0,
+        "turn_penalty": -0.001,
+        "roads_built": 0.0,
+        "settlements_built": 0.0,
+        "cities_built": 0.0,
+        "dev_cards_bought": 0.0,
+        "dev_cards_played": 0.0,
+        "cards_gained": 0.0,
+        "cards_stolen": 0.0,
+        "robber_steals": 0.0,
+        "resources_discarded": 0.0
+      },
+      "placement_rewards": {
+        "1": 1.0,
+        "2": 0.5,
+        "3": 0.25,
+        "4": 0.0
+      }
+    }
+  },
+  "ppo_config": {
+    "learning_rate": 0.0003,
+    "gamma": 0.99,
+    "gae_lambda": 0.95,
+    "clip_epsilon": 0.2,
+    "entropy_coef": 0.01,
+    "value_coef": 0.5,
+    "max_grad_norm": 0.5,
+    "rollout_episodes": 4,
+    "update_epochs": 1,
+    "minibatch_size": 16,
+    "normalize_advantages": true,
+    "checkpoint_dir": "training_runs/training_session_007_20260410_103344/checkpoints",
+    "device": "cpu"
+  },
+  "updates": 5,
+  "eval_episodes": 8,
+  "session_dir": "training_runs/training_session_007_20260410_103344",
+  "resume_checkpoint": "training_runs/training_session_006_20260409_162036/checkpoints/checkpoint_0009.pt",
+  "resumed_update_step": 9
+}
