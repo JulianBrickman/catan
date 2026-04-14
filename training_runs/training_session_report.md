@@ -18,6 +18,13 @@ This file is auto-generated from `training_runs/` and is meant to make session-t
 | training_session_011_20260410_142828 | 31 | 1.0000 | 0 | 4.6562 | 256.38 | training_runs/training_session_009_20260410_130216/checkpoints/checkpoint_0029.pt | 800 | 6 | 8 | 1 | 1.0000 | 0.1000 | 0.0000 | 0.0000 |
 | training_session_012_20260410_152524 | 34 | 0.7500 | 4 | 5.1406 | 463.06 | training_runs/training_session_011_20260410_142828/checkpoints/checkpoint_0031.pt | 800 | 6 | 16 | 1 | 1.0000 | 0.1000 | 0.0000 | 0.0000 |
 | training_session_013_20260410_153747 | 34 | 0.6875 | 5 | 5.1250 | 519.88 | training_runs/training_session_011_20260410_142828/checkpoints/checkpoint_0031.pt | 800 | 6 | 16 | 1 | 1.0000 | 0.0800 | 0.0000 | 0.0000 |
+| training_session_014_20260410_162043 | 31 | 0.9375 | 1 | 5.0312 | 327.19 | training_runs/training_session_009_20260410_130216/checkpoints/checkpoint_0029.pt | 800 | 6 | 16 | 1 | 1.0000 | 0.1000 | 0.0000 | 0.0000 |
+| training_session_015_20260413_122842 | 33 | 0.9375 | 1 | 5.4688 | 322.81 | training_runs/training_session_009_20260410_130216/checkpoints/checkpoint_0029.pt | 800 | 12 | 16 | 1 | 1.0000 | 0.1000 | 0.0000 | 0.0000 |
+| training_session_016_20260413_131533 | 41 | 0.7500 | 4 | 5.0625 | 452.94 | training_runs/training_session_009_20260410_130216/checkpoints/checkpoint_0029.pt | 800 | 8 | 16 | 1 | 1.0000 | 0.1000 | 0.0000 | 0.0000 |
+| training_session_017_20260413_141613 | 34 | 0.8750 | 2 | 5.1094 | 369.62 | training_runs/training_session_015_20260413_122842/checkpoints/checkpoint_0033.pt | 800 | 16 | 16 | 1 | 1.0000 | 0.0800 | 0.0000 | 0.0000 |
+| training_session_018_20260413_144647 | 35 | 0.7500 | 4 | 5.2031 | 497.06 | training_runs/training_session_017_20260413_141613/checkpoints/checkpoint_0034.pt | 800 | 16 | 16 | 1 | 1.0000 | 0.0800 | 0.0000 | 0.0000 |
+| training_session_019_20260413_165725 | 20 | 0.6250 | 6 | 4.0781 | 502.38 |  | 800 | 24 | 16 | 1 | 1.0000 | 0.1000 | 0.0000 | 0.5000 |
+| training_session_020_20260414_130935 | 3 | 1.0000 | 0 | 5.0625 | 247.19 |  | 800 | 24 | 16 | 1 | 0.0000 | 0.1000 | 0.0000 | 1.0000 |
 
 ## Update Summary
 
@@ -95,3 +102,77 @@ This file is auto-generated from `training_runs/` and is meant to make session-t
 | training_session_013_20260410_153747 | 34 | 0.6875 | 5 | 5.1250 | 519.88 | 6.0000 | 203.17 | training_runs/training_session_013_20260410_153747/checkpoints/checkpoint_0034.pt |
 | training_session_013_20260410_153747 | 35 | 0.5000 | 8 | 4.8281 | 562.81 | 5.7083 | 197.17 | training_runs/training_session_013_20260410_153747/checkpoints/checkpoint_0035.pt |
 | training_session_013_20260410_153747 | 36 | 0.3125 | 11 | 4.3438 | 654.31 | 5.7083 | 182.33 | training_runs/training_session_013_20260410_153747/checkpoints/checkpoint_0036.pt |
+| training_session_014_20260410_162043 | 30 | 0.8750 | 2 | 4.9375 | 310.50 | 5.8750 | 213.33 | training_runs/training_session_014_20260410_162043/checkpoints/checkpoint_0030.pt |
+| training_session_014_20260410_162043 | 31 | 0.9375 | 1 | 5.0312 | 327.19 | 6.8333 | 335.50 | training_runs/training_session_014_20260410_162043/checkpoints/checkpoint_0031.pt |
+| training_session_014_20260410_162043 | 32 | 0.8750 | 2 | 5.3125 | 371.75 | 5.5417 | 188.33 | training_runs/training_session_014_20260410_162043/checkpoints/checkpoint_0032.pt |
+| training_session_014_20260410_162043 | 33 | 0.7500 | 4 | 5.2812 | 388.56 | 6.2083 | 253.00 | training_runs/training_session_014_20260410_162043/checkpoints/checkpoint_0033.pt |
+| training_session_014_20260410_162043 | 34 | 0.8750 | 2 | 5.1406 | 311.44 | 5.0833 | 193.67 | training_runs/training_session_014_20260410_162043/checkpoints/checkpoint_0034.pt |
+| training_session_014_20260410_162043 | 35 | 0.7500 | 4 | 5.5938 | 491.19 | 5.9167 | 214.33 | training_runs/training_session_014_20260410_162043/checkpoints/checkpoint_0035.pt |
+| training_session_014_20260410_162043 | 36 | 0.6250 | 6 | 5.0938 | 475.38 | 5.6667 | 223.67 | training_runs/training_session_014_20260410_162043/checkpoints/checkpoint_0036.pt |
+| training_session_014_20260410_162043 | 37 | 0.6875 | 5 | 4.7969 | 476.12 | 5.8333 | 196.83 | training_runs/training_session_014_20260410_162043/checkpoints/checkpoint_0037.pt |
+| training_session_015_20260413_122842 | 30 | 0.8125 | 3 | 4.9219 | 350.81 | 5.7083 | 243.67 | training_runs/training_session_015_20260413_122842/checkpoints/checkpoint_0030.pt |
+| training_session_015_20260413_122842 | 31 | 0.8750 | 2 | 4.9375 | 380.31 | 6.1667 | 227.33 | training_runs/training_session_015_20260413_122842/checkpoints/checkpoint_0031.pt |
+| training_session_015_20260413_122842 | 32 | 0.8750 | 2 | 5.2812 | 326.25 | 6.0000 | 229.00 | training_runs/training_session_015_20260413_122842/checkpoints/checkpoint_0032.pt |
+| training_session_015_20260413_122842 | 33 | 0.9375 | 1 | 5.4688 | 322.81 | 6.0208 | 247.58 | training_runs/training_session_015_20260413_122842/checkpoints/checkpoint_0033.pt |
+| training_session_015_20260413_122842 | 34 | 0.7500 | 4 | 5.0781 | 389.88 | 5.7083 | 188.67 | training_runs/training_session_015_20260413_122842/checkpoints/checkpoint_0034.pt |
+| training_session_015_20260413_122842 | 35 | 0.8125 | 3 | 5.0156 | 435.19 | 6.0208 | 264.75 | training_runs/training_session_015_20260413_122842/checkpoints/checkpoint_0035.pt |
+| training_session_015_20260413_122842 | 36 | 0.6250 | 6 | 4.8906 | 486.88 | 5.6250 | 239.42 | training_runs/training_session_015_20260413_122842/checkpoints/checkpoint_0036.pt |
+| training_session_015_20260413_122842 | 37 | 0.7500 | 4 | 5.1094 | 419.25 | 5.9583 | 196.25 | training_runs/training_session_015_20260413_122842/checkpoints/checkpoint_0037.pt |
+| training_session_016_20260413_131533 | 30 | 0.6250 | 6 | 4.6250 | 503.50 | 5.5312 | 218.62 | training_runs/training_session_016_20260413_131533/checkpoints/checkpoint_0030.pt |
+| training_session_016_20260413_131533 | 31 | 0.5625 | 7 | 4.4062 | 547.31 | 5.5938 | 187.75 | training_runs/training_session_016_20260413_131533/checkpoints/checkpoint_0031.pt |
+| training_session_016_20260413_131533 | 32 | 0.5625 | 7 | 4.8125 | 521.44 | 6.0625 | 254.25 | training_runs/training_session_016_20260413_131533/checkpoints/checkpoint_0032.pt |
+| training_session_016_20260413_131533 | 33 | 0.5625 | 7 | 5.1094 | 620.50 | 5.6875 | 216.25 | training_runs/training_session_016_20260413_131533/checkpoints/checkpoint_0033.pt |
+| training_session_016_20260413_131533 | 34 | 0.6250 | 6 | 4.8281 | 484.06 | 5.9062 | 197.88 | training_runs/training_session_016_20260413_131533/checkpoints/checkpoint_0034.pt |
+| training_session_016_20260413_131533 | 35 | 0.6250 | 6 | 5.3594 | 502.25 | 5.5312 | 234.00 | training_runs/training_session_016_20260413_131533/checkpoints/checkpoint_0035.pt |
+| training_session_016_20260413_131533 | 36 | 0.5625 | 7 | 4.6250 | 603.88 | 5.4375 | 201.25 | training_runs/training_session_016_20260413_131533/checkpoints/checkpoint_0036.pt |
+| training_session_016_20260413_131533 | 37 | 0.7500 | 4 | 4.9531 | 497.38 | 5.6562 | 177.00 | training_runs/training_session_016_20260413_131533/checkpoints/checkpoint_0037.pt |
+| training_session_016_20260413_131533 | 38 | 0.7500 | 4 | 4.9688 | 391.69 | 5.9375 | 197.38 | training_runs/training_session_016_20260413_131533/checkpoints/checkpoint_0038.pt |
+| training_session_016_20260413_131533 | 39 | 0.6250 | 6 | 4.7031 | 478.88 | 5.9375 | 198.38 | training_runs/training_session_016_20260413_131533/checkpoints/checkpoint_0039.pt |
+| training_session_016_20260413_131533 | 40 | 0.5000 | 8 | 4.8438 | 582.50 | 5.4375 | 236.00 | training_runs/training_session_016_20260413_131533/checkpoints/checkpoint_0040.pt |
+| training_session_016_20260413_131533 | 41 | 0.7500 | 4 | 5.0625 | 452.94 | 6.0625 | 210.75 | training_runs/training_session_016_20260413_131533/checkpoints/checkpoint_0041.pt |
+| training_session_017_20260413_141613 | 34 | 0.8750 | 2 | 5.1094 | 369.62 | 5.5000 | 186.06 | training_runs/training_session_017_20260413_141613/checkpoints/checkpoint_0034.pt |
+| training_session_017_20260413_141613 | 35 | 0.8125 | 3 | 5.2344 | 373.19 | 6.0625 | 226.81 | training_runs/training_session_017_20260413_141613/checkpoints/checkpoint_0035.pt |
+| training_session_017_20260413_141613 | 36 | 0.6875 | 5 | 4.7656 | 432.94 | 6.0938 | 213.81 | training_runs/training_session_017_20260413_141613/checkpoints/checkpoint_0036.pt |
+| training_session_017_20260413_141613 | 37 | 0.5625 | 7 | 4.9688 | 494.50 | 5.4219 | 191.81 | training_runs/training_session_017_20260413_141613/checkpoints/checkpoint_0037.pt |
+| training_session_018_20260413_144647 | 35 | 0.7500 | 4 | 5.2031 | 497.06 | 5.4844 | 183.88 | training_runs/training_session_018_20260413_144647/checkpoints/checkpoint_0035.pt |
+| training_session_018_20260413_144647 | 36 | 0.3750 | 10 | 4.4688 | 659.38 | 6.0156 | 228.00 | training_runs/training_session_018_20260413_144647/checkpoints/checkpoint_0036.pt |
+| training_session_019_20260413_165725 | 1 | 0.1875 | 13 | 3.3906 | 713.94 | 6.2396 | 328.08 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0001.pt |
+| training_session_019_20260413_165725 | 2 | 0.1875 | 13 | 2.6250 | 753.38 | 5.7917 | 296.33 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0002.pt |
+| training_session_019_20260413_165725 | 3 | 0.3750 | 10 | 3.4375 | 702.44 | 5.8438 | 302.92 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0003.pt |
+| training_session_019_20260413_165725 | 4 | 0.3750 | 10 | 3.1406 | 712.44 | 6.0312 | 312.08 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0004.pt |
+| training_session_019_20260413_165725 | 5 | 0.2500 | 12 | 3.7188 | 712.25 | 6.0000 | 262.79 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0005.pt |
+| training_session_019_20260413_165725 | 6 | 0.1875 | 13 | 3.3750 | 690.38 | 5.9271 | 251.00 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0006.pt |
+| training_session_019_20260413_165725 | 7 | 0.4375 | 9 | 3.5000 | 688.62 | 5.7396 | 236.42 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0007.pt |
+| training_session_019_20260413_165725 | 8 | 0.1875 | 13 | 2.7656 | 698.81 | 5.6979 | 231.75 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0008.pt |
+| training_session_019_20260413_165725 | 9 | 0.0000 | 16 | 2.8125 | 800.00 | 5.4792 | 220.00 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0009.pt |
+| training_session_019_20260413_165725 | 10 | 0.0000 | 16 | 2.5625 | 800.00 | 5.7292 | 213.04 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0010.pt |
+| training_session_019_20260413_165725 | 11 | 0.0625 | 15 | 3.3281 | 768.44 | 5.9271 | 245.38 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0011.pt |
+| training_session_019_20260413_165725 | 12 | 0.1250 | 14 | 3.5625 | 757.56 | 6.0625 | 218.54 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0012.pt |
+| training_session_019_20260413_165725 | 13 | 0.0625 | 15 | 3.5938 | 760.25 | 5.7188 | 254.12 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0013.pt |
+| training_session_019_20260413_165725 | 14 | 0.1875 | 13 | 3.2344 | 724.62 | 6.1771 | 228.79 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0014.pt |
+| training_session_019_20260413_165725 | 15 | 0.0000 | 16 | 3.0938 | 800.00 | 5.7396 | 217.83 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0015.pt |
+| training_session_019_20260413_165725 | 16 | 0.3750 | 10 | 3.1719 | 627.69 | 6.1354 | 247.42 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0016.pt |
+| training_session_019_20260413_165725 | 17 | 0.1875 | 13 | 2.8281 | 717.56 | 5.7917 | 198.79 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0017.pt |
+| training_session_019_20260413_165725 | 18 | 0.3125 | 11 | 2.9375 | 651.31 | 5.7604 | 196.42 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0018.pt |
+| training_session_019_20260413_165725 | 19 | 0.0625 | 15 | 2.7500 | 776.94 | 5.9688 | 209.71 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0019.pt |
+| training_session_019_20260413_165725 | 20 | 0.6250 | 6 | 4.0781 | 502.38 | 6.0938 | 232.17 | training_runs/training_session_019_20260413_165725/checkpoints/checkpoint_0020.pt |
+| training_session_020_20260414_130935 | 1 | 0.2500 | 12 | 4.7031 | 696.88 | 6.1042 | 322.00 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0001.pt |
+| training_session_020_20260414_130935 | 2 | 0.1875 | 13 | 3.7344 | 742.19 | 5.6042 | 302.83 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0002.pt |
+| training_session_020_20260414_130935 | 3 | 1.0000 | 0 | 5.0625 | 247.19 | 5.9688 | 302.58 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0003.pt |
+| training_session_020_20260414_130935 | 4 | 0.4375 | 9 | 4.4062 | 627.44 | 5.8958 | 321.17 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0004.pt |
+| training_session_020_20260414_130935 | 5 | 0.1250 | 14 | 3.5469 | 756.00 | 6.1458 | 315.67 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0005.pt |
+| training_session_020_20260414_130935 | 6 | 0.6250 | 6 | 3.9375 | 484.75 | 6.2083 | 270.17 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0006.pt |
+| training_session_020_20260414_130935 | 7 | 0.5625 | 7 | 4.2500 | 542.62 | 6.1667 | 249.00 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0007.pt |
+| training_session_020_20260414_130935 | 8 | 0.2500 | 12 | 3.8594 | 661.56 | 6.0938 | 283.42 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0008.pt |
+| training_session_020_20260414_130935 | 9 | 0.4375 | 9 | 4.3750 | 653.62 | 5.5833 | 192.00 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0009.pt |
+| training_session_020_20260414_130935 | 10 | 0.3750 | 10 | 3.4375 | 572.19 | 6.3750 | 283.21 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0010.pt |
+| training_session_020_20260414_130935 | 11 | 0.7500 | 4 | 4.0625 | 412.50 | 5.7917 | 211.29 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0011.pt |
+| training_session_020_20260414_130935 | 12 | 0.3750 | 10 | 3.7500 | 679.38 | 5.9271 | 225.58 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0012.pt |
+| training_session_020_20260414_130935 | 13 | 0.3750 | 10 | 3.8906 | 664.81 | 5.4688 | 225.83 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0013.pt |
+| training_session_020_20260414_130935 | 14 | 0.4375 | 9 | 3.6406 | 565.06 | 6.3125 | 257.62 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0014.pt |
+| training_session_020_20260414_130935 | 15 | 0.5625 | 7 | 3.8594 | 562.00 | 5.6771 | 225.67 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0015.pt |
+| training_session_020_20260414_130935 | 16 | 0.6250 | 6 | 4.2656 | 536.06 | 5.9792 | 229.00 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0016.pt |
+| training_session_020_20260414_130935 | 17 | 0.7500 | 4 | 4.4375 | 442.88 | 5.8646 | 246.83 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0017.pt |
+| training_session_020_20260414_130935 | 18 | 0.3750 | 10 | 3.6875 | 570.12 | 5.7708 | 223.17 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0018.pt |
+| training_session_020_20260414_130935 | 19 | 0.4375 | 9 | 3.9531 | 600.31 | 5.7604 | 208.96 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0019.pt |
+| training_session_020_20260414_130935 | 20 | 0.6875 | 5 | 4.1094 | 495.12 | 5.6458 | 195.92 | training_runs/training_session_020_20260414_130935/checkpoints/checkpoint_0020.pt |

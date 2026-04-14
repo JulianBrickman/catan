@@ -9,6 +9,7 @@ from datetime import datetime
 from catan_model import CatanPolicyValueNet
 from catan_ppo import CatanPPOTrainer, PPOConfig, save_metrics, summarize_evaluation_metrics
 from catan_rl_env import CatanEnvConfig, RewardConfig
+from training_run_reports import update_training_run_reports
 
 
 def build_arg_parser() -> argparse.ArgumentParser:
@@ -32,8 +33,15 @@ def build_arg_parser() -> argparse.ArgumentParser:
     parser.add_argument("--resume-checkpoint", type=str, default=None)
     parser.add_argument("--reward-placement-score", type=float, default=1.0)
     parser.add_argument("--reward-vp-gain", type=float, default=0.0)
+    parser.add_argument("--reward-setup-settlement-quality", type=float, default=0.0)
     parser.add_argument("--reward-final-vp", type=float, default=0.0)
+    parser.add_argument("--reward-final-vp-margin", type=float, default=0.0)
     parser.add_argument("--reward-win", type=float, default=0.0)
+    parser.add_argument("--reward-build-settlement", type=float, default=0.0)
+    parser.add_argument("--reward-build-city", type=float, default=0.0)
+    parser.add_argument("--reward-turn-penalty", type=float, default=0.0)
+    parser.add_argument("--reward-truncation", type=float, default=0.0)
+    parser.add_argument("--reward-missed-action-opportunity", type=float, default=0.0)
     return parser
 
 
@@ -59,8 +67,15 @@ def build_reward_config(args: argparse.Namespace) -> RewardConfig:
     reward_config = RewardConfig()
     reward_config.weights["placement_score"] = args.reward_placement_score
     reward_config.weights["vp_gain"] = args.reward_vp_gain
+    reward_config.weights["setup_settlement_quality"] = args.reward_setup_settlement_quality
     reward_config.weights["final_vp"] = args.reward_final_vp
+    reward_config.weights["final_vp_margin"] = args.reward_final_vp_margin
     reward_config.weights["win"] = args.reward_win
+    reward_config.weights["settlements_built"] = args.reward_build_settlement
+    reward_config.weights["cities_built"] = args.reward_build_city
+    reward_config.weights["turn_penalty"] = args.reward_turn_penalty
+    reward_config.weights["truncation"] = args.reward_truncation
+    reward_config.weights["missed_action_opportunity"] = args.reward_missed_action_opportunity
     return reward_config
 
 
@@ -154,6 +169,7 @@ def main() -> None:
         "env_config": asdict(env_config),
         "ppo_config": asdict(ppo_config),
         "updates": args.updates,
+        "eval_episodes": args.eval_episodes,
         "session_dir": str(session_dir),
         "resume_checkpoint": args.resume_checkpoint,
         "resumed_update_step": trainer.update_step,
@@ -193,6 +209,7 @@ def main() -> None:
             save_episode_artifacts(update_dir, "train_final_episode", episodes[-1])
         if eval_episodes:
             save_episode_artifacts(update_dir, "eval_final_episode", eval_episodes[-1])
+        update_training_run_reports(base_output_dir)
         print(
             f"update={global_update} train_steps={train_metrics.steps_collected} "
             f"train_avg_reward={train_metrics.average_episode_reward:.4f} "

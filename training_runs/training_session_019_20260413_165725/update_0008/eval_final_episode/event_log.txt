@@ -1,0 +1,2947 @@
+P0 (Red) built a setup settlement on intersection I53.
+P0 (Red) built a road on edge E71.
+P1 (Blue) built a setup settlement on intersection I51.
+P1 (Blue) built a road on edge E68.
+P2 (Teal) built a setup settlement on intersection I49.
+P2 (Teal) built a road on edge E65.
+P3 (Purple) built a setup settlement on intersection I46.
+P3 (Purple) built a road on edge E69.
+P3 (Purple) built a setup settlement on intersection I44.
+P3 (Purple) built a road on edge E66.
+P2 (Teal) built a setup settlement on intersection I42.
+P2 (Teal) built a road on edge E62.
+P1 (Blue) built a setup settlement on intersection I40.
+P1 (Blue) built a road on edge E52.
+P0 (Red) built a setup settlement on intersection I37.
+P0 (Red) built a road on edge E59.
+Setup complete.
+P0 (Red) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 1 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 1 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 3.
+P3 (Purple) received 1 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 1 lumber from roll 3.
+P3 (Purple) received 1 grain from roll 3.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 1 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+P3 (Purple) upgraded intersection I46 into a city.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 ore from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H18.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P1 (Blue) received 1 brick from roll 6 (bank shortage tie-break).
+P2 (Teal) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H17.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 1 lumber from roll 3.
+P3 (Purple) received 1 grain from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H18.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 3.
+P3 (Purple) received 1 grain from roll 3.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Purple).
+P0 (Red) moved the robber to hex H17.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H18.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 wool from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H18.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 wool from P3 (Purple).
+P1 (Blue) moved the robber to hex H17.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+Bank shortage prevented ore from being distributed.
+Roll 10 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+Roll 6 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Purple).
+P0 (Red) moved the robber to hex H18.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Purple).
+P1 (Blue) moved the robber to hex H17.
+P1 (Blue) bought a development card.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H16.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H18.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 ore from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P2 (Teal) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H18.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P1 (Blue) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 1 lumber from roll 3.
+P3 (Purple) received 1 grain from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 1 lumber from roll 3.
+P3 (Purple) received 1 grain from roll 3.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H16.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 1 lumber from roll 3.
+P3 (Purple) received 1 grain from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H18.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P3 (Purple) received 1 ore from roll 5 (bank shortage tie-break).
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H17.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H18.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H16.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H18.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H17.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H18.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 wool from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 ore from P3 (Purple).
+P2 (Teal) moved the robber to hex H18.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Purple).
+P0 (Red) moved the robber to hex H17.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+Roll 6 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H18.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P2 (Teal) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Purple).
+P0 (Red) moved the robber to hex H18.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H17.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P1 (Blue) received 1 brick from roll 6 (bank shortage tie-break).
+P3 (Purple) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H18.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H17.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 ore from P3 (Purple).
+P2 (Teal) moved the robber to hex H18.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 ore from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H18.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P1 (Blue) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H18.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H17.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H18.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H17.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+Roll 6 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Purple).
+P0 (Red) moved the robber to hex H18.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Purple).
+P0 (Red) moved the robber to hex H18.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 ore from P3 (Purple).
+P2 (Teal) moved the robber to hex H17.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+Roll 6 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+Roll 6 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H18.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 ore from P3 (Purple).
+P2 (Teal) moved the robber to hex H17.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+Roll 6 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H18.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 ore from P3 (Purple).
+P2 (Teal) moved the robber to hex H17.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H18.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P1 (Blue) received 1 brick from roll 6 (bank shortage tie-break).
+P2 (Teal) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Purple).
+P0 (Red) moved the robber to hex H17.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+Roll 6 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+Roll 6 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H18.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Purple).
+P0 (Red) moved the robber to hex H17.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Purple).
+P1 (Blue) moved the robber to hex H18.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 3.
+P3 (Purple) received 1 grain from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H17.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Purple).
+P1 (Blue) moved the robber to hex H18.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 ore from P3 (Purple).
+P2 (Teal) moved the robber to hex H17.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Purple).
+P1 (Blue) moved the robber to hex H18.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H17.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Purple).
+P0 (Red) moved the robber to hex H18.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Purple).
+P0 (Red) moved the robber to hex H17.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 1 lumber from roll 3.
+P3 (Purple) received 1 grain from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 ore from P3 (Purple).
+P2 (Teal) moved the robber to hex H18.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 3.
+P3 (Purple) received 1 grain from roll 3.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 3.
+P3 (Purple) received 1 grain from roll 3.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 3.
+P3 (Purple) received 1 grain from roll 3.
+P3 (Purple) upgraded intersection I44 into a city.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H15.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Purple).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Purple).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+P3 (Purple) received 2 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P2 (Teal) received 1 brick from roll 6 (bank shortage tie-break).
+P3 (Purple) received 2 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H14.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H16.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+Roll 10 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P2 (Teal) received 1 brick from roll 6 (bank shortage tie-break).
+P3 (Purple) received 2 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+P2 (Teal) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 ore from P3 (Purple).
+P2 (Teal) moved the robber to hex H14.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H15.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P2 (Teal) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P2 (Teal) received 1 brick from roll 6 (bank shortage tie-break).
+P3 (Purple) received 2 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P3 (Purple) received 2 ore from roll 5 (bank shortage tie-break).
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+Bank shortage prevented ore from being distributed.
+Roll 10 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 ore from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Purple) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 wool from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P1 (Blue) received 1 brick from roll 6 (bank shortage tie-break).
+P2 (Teal) received 1 brick from roll 6 (bank shortage tie-break).
+P3 (Purple) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+P3 (Purple) bought a development card.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) played a knight on hex H14.
+P3 (Purple) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Purple).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Purple) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H15.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P1 (Blue) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Purple).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H15.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 grain from P3 (Purple).
+P2 (Teal) moved the robber to hex H15.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Purple).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Purple) received 2 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P1 (Blue) received 1 brick from roll 6 (bank shortage tie-break).
+P2 (Teal) received 1 brick from roll 6 (bank shortage tie-break).
+P3 (Purple) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+P2 (Teal) bought a development card.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) built a road on edge E50.
+P2 (Teal) built a road on edge E49.
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H15.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Purple).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P1 (Blue) received 1 brick from roll 6 (bank shortage tie-break).
+P3 (Purple) received 2 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Purple).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+P0 (Red) bought a development card.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) played a knight on hex H11.
+P0 (Red) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 ore from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P3 (Purple) received 2 brick from roll 6.
+P1 (Blue) received 1 brick from roll 6.
+P2 (Teal) received 1 brick from roll 6.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H14.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P3 (Purple) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H15.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Purple).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H15.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P2 (Teal) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 lumber from P3 (Purple).
+P2 (Teal) moved the robber to hex H14.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P1 (Blue) received 1 brick from roll 6 (bank shortage tie-break).
+P2 (Teal) received 1 brick from roll 6 (bank shortage tie-break).
+P3 (Purple) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Purple).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 wool from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+Roll 4 produced no resources.
+P3 (Purple) bought a development card.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P3 (Purple).
+P3 (Purple) built a road on edge E57.
+P3 (Purple) built a road on edge E56.
+P3 (Purple) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P1 (Blue) received 1 brick from roll 6 (bank shortage tie-break).
+P2 (Teal) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P1 (Blue) received 1 brick from roll 6 (bank shortage tie-break).
+P3 (Purple) received 2 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H14.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P2 (Teal).
+P3 (Purple) moved the robber to hex H13.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+Roll 9 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 brick from P3 (Purple).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 11.
+P1 (Blue) received 1 grain from roll 11.
+P0 (Red) received 1 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 ore from P3 (Purple).
+P0 (Red) moved the robber to hex H14.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P0 (Red) received 1 ore from roll 5.
+P3 (Purple) received 2 ore from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H15.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P2 (Teal) received 1 brick from roll 6 (bank shortage tie-break).
+P3 (Purple) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H14.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 2.
+Roll 2 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H15.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+Roll 5 produced no resources.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+Roll 4 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) moved the robber to hex H14.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P2 (Teal) received 1 wool from roll 9.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Purple) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+Bank shortage prevented brick from being distributed.
+Roll 6 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P2 (Teal) received 1 ore from roll 10.
+P2 (Teal) received 1 ore from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P3 (Purple) received 2 lumber from roll 3.
+P0 (Red) received 1 lumber from roll 3.
+P3 (Purple) received 2 lumber from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P3 (Purple).
+P1 (Blue) moved the robber to hex H15.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H14.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P3 (Purple) received 1 brick from roll 6 (bank shortage tie-break).
+Turn advanced to P0 (Red).

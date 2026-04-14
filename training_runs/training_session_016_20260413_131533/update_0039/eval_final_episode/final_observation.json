@@ -1,0 +1,4800 @@
+{
+  "schema_version": "v1",
+  "tensor_schema_version": "v1",
+  "action_index_mode": "phase_local",
+  "observer_player_id": 1,
+  "active_player_id": 1,
+  "global": {
+    "turn_number": 237,
+    "active_player_id": 1,
+    "phase": "game_over",
+    "phase_index": 8,
+    "phase_one_hot": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ],
+    "rolled_this_turn": true,
+    "dev_card_played_this_turn": false,
+    "last_roll": 5,
+    "robber_hex_id": 14,
+    "longest_road_owner": 1,
+    "largest_army_owner": -1,
+    "winner": 1,
+    "pending_trade_responder": -1
+  },
+  "hexes": [
+    {
+      "id": 0,
+      "terrain": "mountains",
+      "resource": "ore",
+      "token": 12,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        1,
+        3,
+        4
+      ]
+    },
+    {
+      "id": 1,
+      "terrain": "fields",
+      "resource": "grain",
+      "token": 6,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        0,
+        2,
+        4,
+        5
+      ]
+    },
+    {
+      "id": 2,
+      "terrain": "pasture",
+      "resource": "wool",
+      "token": 4,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        1,
+        5,
+        6
+      ]
+    },
+    {
+      "id": 3,
+      "terrain": "hills",
+      "resource": "brick",
+      "token": 11,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        0,
+        4,
+        7,
+        8
+      ]
+    },
+    {
+      "id": 4,
+      "terrain": "forest",
+      "resource": "lumber",
+      "token": 3,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        0,
+        1,
+        3,
+        5,
+        8,
+        9
+      ]
+    },
+    {
+      "id": 5,
+      "terrain": "fields",
+      "resource": "grain",
+      "token": 9,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        1,
+        2,
+        4,
+        6,
+        9,
+        10
+      ]
+    },
+    {
+      "id": 6,
+      "terrain": "mountains",
+      "resource": "ore",
+      "token": 4,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        2,
+        5,
+        10,
+        11
+      ]
+    },
+    {
+      "id": 7,
+      "terrain": "pasture",
+      "resource": "wool",
+      "token": 9,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        3,
+        8,
+        12
+      ]
+    },
+    {
+      "id": 8,
+      "terrain": "fields",
+      "resource": "grain",
+      "token": 10,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        3,
+        4,
+        7,
+        9,
+        12,
+        13
+      ]
+    },
+    {
+      "id": 9,
+      "terrain": "hills",
+      "resource": "brick",
+      "token": 8,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        4,
+        5,
+        8,
+        10,
+        13,
+        14
+      ]
+    },
+    {
+      "id": 10,
+      "terrain": "desert",
+      "resource": null,
+      "token": 0,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        5,
+        6,
+        9,
+        11,
+        14,
+        15
+      ]
+    },
+    {
+      "id": 11,
+      "terrain": "forest",
+      "resource": "lumber",
+      "token": 8,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        6,
+        10,
+        15
+      ]
+    },
+    {
+      "id": 12,
+      "terrain": "pasture",
+      "resource": "wool",
+      "token": 5,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        7,
+        8,
+        13,
+        16
+      ]
+    },
+    {
+      "id": 13,
+      "terrain": "pasture",
+      "resource": "wool",
+      "token": 2,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        8,
+        9,
+        12,
+        14,
+        16,
+        17
+      ]
+    },
+    {
+      "id": 14,
+      "terrain": "fields",
+      "resource": "grain",
+      "token": 11,
+      "has_robber": true,
+      "neighbor_hex_ids": [
+        9,
+        10,
+        13,
+        15,
+        17,
+        18
+      ]
+    },
+    {
+      "id": 15,
+      "terrain": "mountains",
+      "resource": "ore",
+      "token": 10,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        10,
+        11,
+        14,
+        18
+      ]
+    },
+    {
+      "id": 16,
+      "terrain": "forest",
+      "resource": "lumber",
+      "token": 5,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        12,
+        13,
+        17
+      ]
+    },
+    {
+      "id": 17,
+      "terrain": "forest",
+      "resource": "lumber",
+      "token": 6,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        13,
+        14,
+        16,
+        18
+      ]
+    },
+    {
+      "id": 18,
+      "terrain": "hills",
+      "resource": "brick",
+      "token": 3,
+      "has_robber": false,
+      "neighbor_hex_ids": [
+        14,
+        15,
+        17
+      ]
+    }
+  ],
+  "intersections": [
+    {
+      "id": 0,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        0,
+        1
+      ],
+      "adjacent_edge_ids": [
+        0,
+        5,
+        9
+      ],
+      "adjacent_intersection_ids": [
+        1,
+        5,
+        9
+      ]
+    },
+    {
+      "id": 1,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        0,
+        1,
+        4
+      ],
+      "adjacent_edge_ids": [
+        0,
+        1,
+        8
+      ],
+      "adjacent_intersection_ids": [
+        0,
+        2,
+        8
+      ]
+    },
+    {
+      "id": 2,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        0,
+        3,
+        4
+      ],
+      "adjacent_edge_ids": [
+        1,
+        2,
+        16
+      ],
+      "adjacent_intersection_ids": [
+        1,
+        3,
+        14
+      ]
+    },
+    {
+      "id": 3,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        0,
+        3
+      ],
+      "adjacent_edge_ids": [
+        2,
+        3,
+        20
+      ],
+      "adjacent_intersection_ids": [
+        2,
+        4,
+        17
+      ]
+    },
+    {
+      "id": 4,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        0
+      ],
+      "adjacent_edge_ids": [
+        3,
+        4
+      ],
+      "adjacent_intersection_ids": [
+        3,
+        5
+      ]
+    },
+    {
+      "id": 5,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        0
+      ],
+      "adjacent_edge_ids": [
+        4,
+        5
+      ],
+      "adjacent_intersection_ids": [
+        0,
+        4
+      ]
+    },
+    {
+      "id": 6,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        1,
+        2
+      ],
+      "adjacent_edge_ids": [
+        6,
+        10,
+        14
+      ],
+      "adjacent_intersection_ids": [
+        7,
+        9,
+        13
+      ]
+    },
+    {
+      "id": 7,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        1,
+        2,
+        5
+      ],
+      "adjacent_edge_ids": [
+        6,
+        7,
+        13
+      ],
+      "adjacent_intersection_ids": [
+        6,
+        8,
+        12
+      ]
+    },
+    {
+      "id": 8,
+      "owner": 1,
+      "piece": "settlement",
+      "coastal": false,
+      "adjacent_hex_ids": [
+        1,
+        4,
+        5
+      ],
+      "adjacent_edge_ids": [
+        7,
+        8,
+        21
+      ],
+      "adjacent_intersection_ids": [
+        1,
+        7,
+        18
+      ]
+    },
+    {
+      "id": 9,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        1
+      ],
+      "adjacent_edge_ids": [
+        9,
+        10
+      ],
+      "adjacent_intersection_ids": [
+        0,
+        6
+      ]
+    },
+    {
+      "id": 10,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        2
+      ],
+      "adjacent_edge_ids": [
+        11,
+        15
+      ],
+      "adjacent_intersection_ids": [
+        11,
+        13
+      ]
+    },
+    {
+      "id": 11,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        2,
+        6
+      ],
+      "adjacent_edge_ids": [
+        11,
+        12,
+        30
+      ],
+      "adjacent_intersection_ids": [
+        10,
+        12,
+        22
+      ]
+    },
+    {
+      "id": 12,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        2,
+        5,
+        6
+      ],
+      "adjacent_edge_ids": [
+        12,
+        13,
+        24
+      ],
+      "adjacent_intersection_ids": [
+        7,
+        11,
+        20
+      ]
+    },
+    {
+      "id": 13,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        2
+      ],
+      "adjacent_edge_ids": [
+        14,
+        15
+      ],
+      "adjacent_intersection_ids": [
+        6,
+        10
+      ]
+    },
+    {
+      "id": 14,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        3,
+        4,
+        8
+      ],
+      "adjacent_edge_ids": [
+        16,
+        17,
+        23
+      ],
+      "adjacent_intersection_ids": [
+        2,
+        15,
+        19
+      ]
+    },
+    {
+      "id": 15,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        3,
+        7,
+        8
+      ],
+      "adjacent_edge_ids": [
+        17,
+        18,
+        31
+      ],
+      "adjacent_intersection_ids": [
+        14,
+        16,
+        25
+      ]
+    },
+    {
+      "id": 16,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        3,
+        7
+      ],
+      "adjacent_edge_ids": [
+        18,
+        19,
+        35
+      ],
+      "adjacent_intersection_ids": [
+        15,
+        17,
+        28
+      ]
+    },
+    {
+      "id": 17,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        3
+      ],
+      "adjacent_edge_ids": [
+        19,
+        20
+      ],
+      "adjacent_intersection_ids": [
+        3,
+        16
+      ]
+    },
+    {
+      "id": 18,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        4,
+        5,
+        9
+      ],
+      "adjacent_edge_ids": [
+        21,
+        22,
+        26
+      ],
+      "adjacent_intersection_ids": [
+        8,
+        19,
+        21
+      ]
+    },
+    {
+      "id": 19,
+      "owner": 1,
+      "piece": "settlement",
+      "coastal": false,
+      "adjacent_hex_ids": [
+        4,
+        8,
+        9
+      ],
+      "adjacent_edge_ids": [
+        22,
+        23,
+        36
+      ],
+      "adjacent_intersection_ids": [
+        14,
+        18,
+        29
+      ]
+    },
+    {
+      "id": 20,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        5,
+        6,
+        10
+      ],
+      "adjacent_edge_ids": [
+        24,
+        25,
+        29
+      ],
+      "adjacent_intersection_ids": [
+        12,
+        21,
+        24
+      ]
+    },
+    {
+      "id": 21,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        5,
+        9,
+        10
+      ],
+      "adjacent_edge_ids": [
+        25,
+        26,
+        39
+      ],
+      "adjacent_intersection_ids": [
+        18,
+        20,
+        31
+      ]
+    },
+    {
+      "id": 22,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        6
+      ],
+      "adjacent_edge_ids": [
+        27,
+        30
+      ],
+      "adjacent_intersection_ids": [
+        11,
+        23
+      ]
+    },
+    {
+      "id": 23,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        6,
+        11
+      ],
+      "adjacent_edge_ids": [
+        27,
+        28,
+        48
+      ],
+      "adjacent_intersection_ids": [
+        22,
+        24,
+        35
+      ]
+    },
+    {
+      "id": 24,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        6,
+        10,
+        11
+      ],
+      "adjacent_edge_ids": [
+        28,
+        29,
+        42
+      ],
+      "adjacent_intersection_ids": [
+        20,
+        23,
+        33
+      ]
+    },
+    {
+      "id": 25,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        7,
+        8,
+        12
+      ],
+      "adjacent_edge_ids": [
+        31,
+        32,
+        38
+      ],
+      "adjacent_intersection_ids": [
+        15,
+        26,
+        30
+      ]
+    },
+    {
+      "id": 26,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        7,
+        12
+      ],
+      "adjacent_edge_ids": [
+        32,
+        33,
+        52
+      ],
+      "adjacent_intersection_ids": [
+        25,
+        27,
+        40
+      ]
+    },
+    {
+      "id": 27,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        7
+      ],
+      "adjacent_edge_ids": [
+        33,
+        34
+      ],
+      "adjacent_intersection_ids": [
+        26,
+        28
+      ]
+    },
+    {
+      "id": 28,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        7
+      ],
+      "adjacent_edge_ids": [
+        34,
+        35
+      ],
+      "adjacent_intersection_ids": [
+        16,
+        27
+      ]
+    },
+    {
+      "id": 29,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        8,
+        9,
+        13
+      ],
+      "adjacent_edge_ids": [
+        36,
+        37,
+        41
+      ],
+      "adjacent_intersection_ids": [
+        19,
+        30,
+        32
+      ]
+    },
+    {
+      "id": 30,
+      "owner": 1,
+      "piece": "settlement",
+      "coastal": false,
+      "adjacent_hex_ids": [
+        8,
+        12,
+        13
+      ],
+      "adjacent_edge_ids": [
+        37,
+        38,
+        49
+      ],
+      "adjacent_intersection_ids": [
+        25,
+        29,
+        38
+      ]
+    },
+    {
+      "id": 31,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        9,
+        10,
+        14
+      ],
+      "adjacent_edge_ids": [
+        39,
+        40,
+        44
+      ],
+      "adjacent_intersection_ids": [
+        21,
+        32,
+        34
+      ]
+    },
+    {
+      "id": 32,
+      "owner": 2,
+      "piece": "settlement",
+      "coastal": false,
+      "adjacent_hex_ids": [
+        9,
+        13,
+        14
+      ],
+      "adjacent_edge_ids": [
+        40,
+        41,
+        53
+      ],
+      "adjacent_intersection_ids": [
+        29,
+        31,
+        41
+      ]
+    },
+    {
+      "id": 33,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        10,
+        11,
+        15
+      ],
+      "adjacent_edge_ids": [
+        42,
+        43,
+        47
+      ],
+      "adjacent_intersection_ids": [
+        24,
+        34,
+        37
+      ]
+    },
+    {
+      "id": 34,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        10,
+        14,
+        15
+      ],
+      "adjacent_edge_ids": [
+        43,
+        44,
+        56
+      ],
+      "adjacent_intersection_ids": [
+        31,
+        33,
+        43
+      ]
+    },
+    {
+      "id": 35,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        11
+      ],
+      "adjacent_edge_ids": [
+        45,
+        48
+      ],
+      "adjacent_intersection_ids": [
+        23,
+        36
+      ]
+    },
+    {
+      "id": 36,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        11
+      ],
+      "adjacent_edge_ids": [
+        45,
+        46
+      ],
+      "adjacent_intersection_ids": [
+        35,
+        37
+      ]
+    },
+    {
+      "id": 37,
+      "owner": 0,
+      "piece": "settlement",
+      "coastal": true,
+      "adjacent_hex_ids": [
+        11,
+        15
+      ],
+      "adjacent_edge_ids": [
+        46,
+        47,
+        59
+      ],
+      "adjacent_intersection_ids": [
+        33,
+        36,
+        45
+      ]
+    },
+    {
+      "id": 38,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        12,
+        13,
+        16
+      ],
+      "adjacent_edge_ids": [
+        49,
+        50,
+        55
+      ],
+      "adjacent_intersection_ids": [
+        30,
+        39,
+        42
+      ]
+    },
+    {
+      "id": 39,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        12,
+        16
+      ],
+      "adjacent_edge_ids": [
+        50,
+        51,
+        65
+      ],
+      "adjacent_intersection_ids": [
+        38,
+        40,
+        49
+      ]
+    },
+    {
+      "id": 40,
+      "owner": 1,
+      "piece": "settlement",
+      "coastal": true,
+      "adjacent_hex_ids": [
+        12
+      ],
+      "adjacent_edge_ids": [
+        51,
+        52
+      ],
+      "adjacent_intersection_ids": [
+        26,
+        39
+      ]
+    },
+    {
+      "id": 41,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        13,
+        14,
+        17
+      ],
+      "adjacent_edge_ids": [
+        53,
+        54,
+        58
+      ],
+      "adjacent_intersection_ids": [
+        32,
+        42,
+        44
+      ]
+    },
+    {
+      "id": 42,
+      "owner": 2,
+      "piece": "settlement",
+      "coastal": false,
+      "adjacent_hex_ids": [
+        13,
+        16,
+        17
+      ],
+      "adjacent_edge_ids": [
+        54,
+        55,
+        62
+      ],
+      "adjacent_intersection_ids": [
+        38,
+        41,
+        47
+      ]
+    },
+    {
+      "id": 43,
+      "owner": -1,
+      "piece": null,
+      "coastal": false,
+      "adjacent_hex_ids": [
+        14,
+        15,
+        18
+      ],
+      "adjacent_edge_ids": [
+        56,
+        57,
+        61
+      ],
+      "adjacent_intersection_ids": [
+        34,
+        44,
+        46
+      ]
+    },
+    {
+      "id": 44,
+      "owner": 3,
+      "piece": "city",
+      "coastal": false,
+      "adjacent_hex_ids": [
+        14,
+        17,
+        18
+      ],
+      "adjacent_edge_ids": [
+        57,
+        58,
+        66
+      ],
+      "adjacent_intersection_ids": [
+        41,
+        43,
+        50
+      ]
+    },
+    {
+      "id": 45,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        15
+      ],
+      "adjacent_edge_ids": [
+        59,
+        60
+      ],
+      "adjacent_intersection_ids": [
+        37,
+        46
+      ]
+    },
+    {
+      "id": 46,
+      "owner": 3,
+      "piece": "city",
+      "coastal": true,
+      "adjacent_hex_ids": [
+        15,
+        18
+      ],
+      "adjacent_edge_ids": [
+        60,
+        61,
+        69
+      ],
+      "adjacent_intersection_ids": [
+        43,
+        45,
+        52
+      ]
+    },
+    {
+      "id": 47,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        16,
+        17
+      ],
+      "adjacent_edge_ids": [
+        62,
+        63,
+        68
+      ],
+      "adjacent_intersection_ids": [
+        42,
+        48,
+        51
+      ]
+    },
+    {
+      "id": 48,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        16
+      ],
+      "adjacent_edge_ids": [
+        63,
+        64
+      ],
+      "adjacent_intersection_ids": [
+        47,
+        49
+      ]
+    },
+    {
+      "id": 49,
+      "owner": 2,
+      "piece": "settlement",
+      "coastal": true,
+      "adjacent_hex_ids": [
+        16
+      ],
+      "adjacent_edge_ids": [
+        64,
+        65
+      ],
+      "adjacent_intersection_ids": [
+        39,
+        48
+      ]
+    },
+    {
+      "id": 50,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        17,
+        18
+      ],
+      "adjacent_edge_ids": [
+        66,
+        67,
+        71
+      ],
+      "adjacent_intersection_ids": [
+        44,
+        51,
+        53
+      ]
+    },
+    {
+      "id": 51,
+      "owner": 1,
+      "piece": "settlement",
+      "coastal": true,
+      "adjacent_hex_ids": [
+        17
+      ],
+      "adjacent_edge_ids": [
+        67,
+        68
+      ],
+      "adjacent_intersection_ids": [
+        47,
+        50
+      ]
+    },
+    {
+      "id": 52,
+      "owner": -1,
+      "piece": null,
+      "coastal": true,
+      "adjacent_hex_ids": [
+        18
+      ],
+      "adjacent_edge_ids": [
+        69,
+        70
+      ],
+      "adjacent_intersection_ids": [
+        46,
+        53
+      ]
+    },
+    {
+      "id": 53,
+      "owner": 0,
+      "piece": "settlement",
+      "coastal": true,
+      "adjacent_hex_ids": [
+        18
+      ],
+      "adjacent_edge_ids": [
+        70,
+        71
+      ],
+      "adjacent_intersection_ids": [
+        50,
+        52
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "id": 0,
+      "owner": 2,
+      "intersection_ids": [
+        0,
+        1
+      ],
+      "adjacent_hex_ids": [
+        0,
+        1
+      ],
+      "coastal": false
+    },
+    {
+      "id": 1,
+      "owner": 2,
+      "intersection_ids": [
+        1,
+        2
+      ],
+      "adjacent_hex_ids": [
+        0,
+        4
+      ],
+      "coastal": false
+    },
+    {
+      "id": 2,
+      "owner": 1,
+      "intersection_ids": [
+        2,
+        3
+      ],
+      "adjacent_hex_ids": [
+        0,
+        3
+      ],
+      "coastal": false
+    },
+    {
+      "id": 3,
+      "owner": 1,
+      "intersection_ids": [
+        3,
+        4
+      ],
+      "adjacent_hex_ids": [
+        0
+      ],
+      "coastal": true
+    },
+    {
+      "id": 4,
+      "owner": -1,
+      "intersection_ids": [
+        4,
+        5
+      ],
+      "adjacent_hex_ids": [
+        0
+      ],
+      "coastal": true
+    },
+    {
+      "id": 5,
+      "owner": -1,
+      "intersection_ids": [
+        0,
+        5
+      ],
+      "adjacent_hex_ids": [
+        0
+      ],
+      "coastal": true
+    },
+    {
+      "id": 6,
+      "owner": 2,
+      "intersection_ids": [
+        6,
+        7
+      ],
+      "adjacent_hex_ids": [
+        1,
+        2
+      ],
+      "coastal": false
+    },
+    {
+      "id": 7,
+      "owner": 2,
+      "intersection_ids": [
+        7,
+        8
+      ],
+      "adjacent_hex_ids": [
+        1,
+        5
+      ],
+      "coastal": false
+    },
+    {
+      "id": 8,
+      "owner": 2,
+      "intersection_ids": [
+        1,
+        8
+      ],
+      "adjacent_hex_ids": [
+        1,
+        4
+      ],
+      "coastal": false
+    },
+    {
+      "id": 9,
+      "owner": -1,
+      "intersection_ids": [
+        0,
+        9
+      ],
+      "adjacent_hex_ids": [
+        1
+      ],
+      "coastal": true
+    },
+    {
+      "id": 10,
+      "owner": -1,
+      "intersection_ids": [
+        6,
+        9
+      ],
+      "adjacent_hex_ids": [
+        1
+      ],
+      "coastal": true
+    },
+    {
+      "id": 11,
+      "owner": 2,
+      "intersection_ids": [
+        10,
+        11
+      ],
+      "adjacent_hex_ids": [
+        2
+      ],
+      "coastal": true
+    },
+    {
+      "id": 12,
+      "owner": 2,
+      "intersection_ids": [
+        11,
+        12
+      ],
+      "adjacent_hex_ids": [
+        2,
+        6
+      ],
+      "coastal": false
+    },
+    {
+      "id": 13,
+      "owner": 2,
+      "intersection_ids": [
+        7,
+        12
+      ],
+      "adjacent_hex_ids": [
+        2,
+        5
+      ],
+      "coastal": false
+    },
+    {
+      "id": 14,
+      "owner": -1,
+      "intersection_ids": [
+        6,
+        13
+      ],
+      "adjacent_hex_ids": [
+        2
+      ],
+      "coastal": true
+    },
+    {
+      "id": 15,
+      "owner": -1,
+      "intersection_ids": [
+        10,
+        13
+      ],
+      "adjacent_hex_ids": [
+        2
+      ],
+      "coastal": true
+    },
+    {
+      "id": 16,
+      "owner": 1,
+      "intersection_ids": [
+        2,
+        14
+      ],
+      "adjacent_hex_ids": [
+        3,
+        4
+      ],
+      "coastal": false
+    },
+    {
+      "id": 17,
+      "owner": -1,
+      "intersection_ids": [
+        14,
+        15
+      ],
+      "adjacent_hex_ids": [
+        3,
+        8
+      ],
+      "coastal": false
+    },
+    {
+      "id": 18,
+      "owner": -1,
+      "intersection_ids": [
+        15,
+        16
+      ],
+      "adjacent_hex_ids": [
+        3,
+        7
+      ],
+      "coastal": false
+    },
+    {
+      "id": 19,
+      "owner": -1,
+      "intersection_ids": [
+        16,
+        17
+      ],
+      "adjacent_hex_ids": [
+        3
+      ],
+      "coastal": true
+    },
+    {
+      "id": 20,
+      "owner": -1,
+      "intersection_ids": [
+        3,
+        17
+      ],
+      "adjacent_hex_ids": [
+        3
+      ],
+      "coastal": true
+    },
+    {
+      "id": 21,
+      "owner": 1,
+      "intersection_ids": [
+        8,
+        18
+      ],
+      "adjacent_hex_ids": [
+        4,
+        5
+      ],
+      "coastal": false
+    },
+    {
+      "id": 22,
+      "owner": 1,
+      "intersection_ids": [
+        18,
+        19
+      ],
+      "adjacent_hex_ids": [
+        4,
+        9
+      ],
+      "coastal": false
+    },
+    {
+      "id": 23,
+      "owner": 1,
+      "intersection_ids": [
+        14,
+        19
+      ],
+      "adjacent_hex_ids": [
+        4,
+        8
+      ],
+      "coastal": false
+    },
+    {
+      "id": 24,
+      "owner": 2,
+      "intersection_ids": [
+        12,
+        20
+      ],
+      "adjacent_hex_ids": [
+        5,
+        6
+      ],
+      "coastal": false
+    },
+    {
+      "id": 25,
+      "owner": 2,
+      "intersection_ids": [
+        20,
+        21
+      ],
+      "adjacent_hex_ids": [
+        5,
+        10
+      ],
+      "coastal": false
+    },
+    {
+      "id": 26,
+      "owner": -1,
+      "intersection_ids": [
+        18,
+        21
+      ],
+      "adjacent_hex_ids": [
+        5,
+        9
+      ],
+      "coastal": false
+    },
+    {
+      "id": 27,
+      "owner": 0,
+      "intersection_ids": [
+        22,
+        23
+      ],
+      "adjacent_hex_ids": [
+        6
+      ],
+      "coastal": true
+    },
+    {
+      "id": 28,
+      "owner": 0,
+      "intersection_ids": [
+        23,
+        24
+      ],
+      "adjacent_hex_ids": [
+        6,
+        11
+      ],
+      "coastal": false
+    },
+    {
+      "id": 29,
+      "owner": 0,
+      "intersection_ids": [
+        20,
+        24
+      ],
+      "adjacent_hex_ids": [
+        6,
+        10
+      ],
+      "coastal": false
+    },
+    {
+      "id": 30,
+      "owner": 0,
+      "intersection_ids": [
+        11,
+        22
+      ],
+      "adjacent_hex_ids": [
+        6
+      ],
+      "coastal": true
+    },
+    {
+      "id": 31,
+      "owner": -1,
+      "intersection_ids": [
+        15,
+        25
+      ],
+      "adjacent_hex_ids": [
+        7,
+        8
+      ],
+      "coastal": false
+    },
+    {
+      "id": 32,
+      "owner": -1,
+      "intersection_ids": [
+        25,
+        26
+      ],
+      "adjacent_hex_ids": [
+        7,
+        12
+      ],
+      "coastal": false
+    },
+    {
+      "id": 33,
+      "owner": -1,
+      "intersection_ids": [
+        26,
+        27
+      ],
+      "adjacent_hex_ids": [
+        7
+      ],
+      "coastal": true
+    },
+    {
+      "id": 34,
+      "owner": -1,
+      "intersection_ids": [
+        27,
+        28
+      ],
+      "adjacent_hex_ids": [
+        7
+      ],
+      "coastal": true
+    },
+    {
+      "id": 35,
+      "owner": -1,
+      "intersection_ids": [
+        16,
+        28
+      ],
+      "adjacent_hex_ids": [
+        7
+      ],
+      "coastal": true
+    },
+    {
+      "id": 36,
+      "owner": 1,
+      "intersection_ids": [
+        19,
+        29
+      ],
+      "adjacent_hex_ids": [
+        8,
+        9
+      ],
+      "coastal": false
+    },
+    {
+      "id": 37,
+      "owner": 1,
+      "intersection_ids": [
+        29,
+        30
+      ],
+      "adjacent_hex_ids": [
+        8,
+        13
+      ],
+      "coastal": false
+    },
+    {
+      "id": 38,
+      "owner": -1,
+      "intersection_ids": [
+        25,
+        30
+      ],
+      "adjacent_hex_ids": [
+        8,
+        12
+      ],
+      "coastal": false
+    },
+    {
+      "id": 39,
+      "owner": 2,
+      "intersection_ids": [
+        21,
+        31
+      ],
+      "adjacent_hex_ids": [
+        9,
+        10
+      ],
+      "coastal": false
+    },
+    {
+      "id": 40,
+      "owner": 2,
+      "intersection_ids": [
+        31,
+        32
+      ],
+      "adjacent_hex_ids": [
+        9,
+        14
+      ],
+      "coastal": false
+    },
+    {
+      "id": 41,
+      "owner": -1,
+      "intersection_ids": [
+        29,
+        32
+      ],
+      "adjacent_hex_ids": [
+        9,
+        13
+      ],
+      "coastal": false
+    },
+    {
+      "id": 42,
+      "owner": 0,
+      "intersection_ids": [
+        24,
+        33
+      ],
+      "adjacent_hex_ids": [
+        10,
+        11
+      ],
+      "coastal": false
+    },
+    {
+      "id": 43,
+      "owner": 3,
+      "intersection_ids": [
+        33,
+        34
+      ],
+      "adjacent_hex_ids": [
+        10,
+        15
+      ],
+      "coastal": false
+    },
+    {
+      "id": 44,
+      "owner": 3,
+      "intersection_ids": [
+        31,
+        34
+      ],
+      "adjacent_hex_ids": [
+        10,
+        14
+      ],
+      "coastal": false
+    },
+    {
+      "id": 45,
+      "owner": 0,
+      "intersection_ids": [
+        35,
+        36
+      ],
+      "adjacent_hex_ids": [
+        11
+      ],
+      "coastal": true
+    },
+    {
+      "id": 46,
+      "owner": 0,
+      "intersection_ids": [
+        36,
+        37
+      ],
+      "adjacent_hex_ids": [
+        11
+      ],
+      "coastal": true
+    },
+    {
+      "id": 47,
+      "owner": 0,
+      "intersection_ids": [
+        33,
+        37
+      ],
+      "adjacent_hex_ids": [
+        11,
+        15
+      ],
+      "coastal": false
+    },
+    {
+      "id": 48,
+      "owner": 0,
+      "intersection_ids": [
+        23,
+        35
+      ],
+      "adjacent_hex_ids": [
+        11
+      ],
+      "coastal": true
+    },
+    {
+      "id": 49,
+      "owner": 1,
+      "intersection_ids": [
+        30,
+        38
+      ],
+      "adjacent_hex_ids": [
+        12,
+        13
+      ],
+      "coastal": false
+    },
+    {
+      "id": 50,
+      "owner": 1,
+      "intersection_ids": [
+        38,
+        39
+      ],
+      "adjacent_hex_ids": [
+        12,
+        16
+      ],
+      "coastal": false
+    },
+    {
+      "id": 51,
+      "owner": 1,
+      "intersection_ids": [
+        39,
+        40
+      ],
+      "adjacent_hex_ids": [
+        12
+      ],
+      "coastal": true
+    },
+    {
+      "id": 52,
+      "owner": -1,
+      "intersection_ids": [
+        26,
+        40
+      ],
+      "adjacent_hex_ids": [
+        12
+      ],
+      "coastal": true
+    },
+    {
+      "id": 53,
+      "owner": 2,
+      "intersection_ids": [
+        32,
+        41
+      ],
+      "adjacent_hex_ids": [
+        13,
+        14
+      ],
+      "coastal": false
+    },
+    {
+      "id": 54,
+      "owner": 2,
+      "intersection_ids": [
+        41,
+        42
+      ],
+      "adjacent_hex_ids": [
+        13,
+        17
+      ],
+      "coastal": false
+    },
+    {
+      "id": 55,
+      "owner": -1,
+      "intersection_ids": [
+        38,
+        42
+      ],
+      "adjacent_hex_ids": [
+        13,
+        16
+      ],
+      "coastal": false
+    },
+    {
+      "id": 56,
+      "owner": 3,
+      "intersection_ids": [
+        34,
+        43
+      ],
+      "adjacent_hex_ids": [
+        14,
+        15
+      ],
+      "coastal": false
+    },
+    {
+      "id": 57,
+      "owner": 3,
+      "intersection_ids": [
+        43,
+        44
+      ],
+      "adjacent_hex_ids": [
+        14,
+        18
+      ],
+      "coastal": false
+    },
+    {
+      "id": 58,
+      "owner": 3,
+      "intersection_ids": [
+        41,
+        44
+      ],
+      "adjacent_hex_ids": [
+        14,
+        17
+      ],
+      "coastal": false
+    },
+    {
+      "id": 59,
+      "owner": 3,
+      "intersection_ids": [
+        37,
+        45
+      ],
+      "adjacent_hex_ids": [
+        15
+      ],
+      "coastal": true
+    },
+    {
+      "id": 60,
+      "owner": 3,
+      "intersection_ids": [
+        45,
+        46
+      ],
+      "adjacent_hex_ids": [
+        15
+      ],
+      "coastal": true
+    },
+    {
+      "id": 61,
+      "owner": 3,
+      "intersection_ids": [
+        43,
+        46
+      ],
+      "adjacent_hex_ids": [
+        15,
+        18
+      ],
+      "coastal": false
+    },
+    {
+      "id": 62,
+      "owner": -1,
+      "intersection_ids": [
+        42,
+        47
+      ],
+      "adjacent_hex_ids": [
+        16,
+        17
+      ],
+      "coastal": false
+    },
+    {
+      "id": 63,
+      "owner": -1,
+      "intersection_ids": [
+        47,
+        48
+      ],
+      "adjacent_hex_ids": [
+        16
+      ],
+      "coastal": true
+    },
+    {
+      "id": 64,
+      "owner": 2,
+      "intersection_ids": [
+        48,
+        49
+      ],
+      "adjacent_hex_ids": [
+        16
+      ],
+      "coastal": true
+    },
+    {
+      "id": 65,
+      "owner": -1,
+      "intersection_ids": [
+        39,
+        49
+      ],
+      "adjacent_hex_ids": [
+        16
+      ],
+      "coastal": true
+    },
+    {
+      "id": 66,
+      "owner": 3,
+      "intersection_ids": [
+        44,
+        50
+      ],
+      "adjacent_hex_ids": [
+        17,
+        18
+      ],
+      "coastal": false
+    },
+    {
+      "id": 67,
+      "owner": 1,
+      "intersection_ids": [
+        50,
+        51
+      ],
+      "adjacent_hex_ids": [
+        17
+      ],
+      "coastal": true
+    },
+    {
+      "id": 68,
+      "owner": -1,
+      "intersection_ids": [
+        47,
+        51
+      ],
+      "adjacent_hex_ids": [
+        17
+      ],
+      "coastal": true
+    },
+    {
+      "id": 69,
+      "owner": 3,
+      "intersection_ids": [
+        46,
+        52
+      ],
+      "adjacent_hex_ids": [
+        18
+      ],
+      "coastal": true
+    },
+    {
+      "id": 70,
+      "owner": 0,
+      "intersection_ids": [
+        52,
+        53
+      ],
+      "adjacent_hex_ids": [
+        18
+      ],
+      "coastal": true
+    },
+    {
+      "id": 71,
+      "owner": 3,
+      "intersection_ids": [
+        50,
+        53
+      ],
+      "adjacent_hex_ids": [
+        18
+      ],
+      "coastal": true
+    }
+  ],
+  "players": [
+    {
+      "player_id": 0,
+      "color": "Red",
+      "is_observer": false,
+      "visible_vp": 2,
+      "total_resource_count": 10,
+      "total_development_card_count": 0,
+      "roads_remaining": 5,
+      "settlements_remaining": 3,
+      "cities_remaining": 4,
+      "played_knights": 0
+    },
+    {
+      "player_id": 1,
+      "color": "Blue",
+      "is_observer": true,
+      "visible_vp": 7,
+      "total_resource_count": 10,
+      "total_development_card_count": 3,
+      "roads_remaining": 3,
+      "settlements_remaining": 0,
+      "cities_remaining": 4,
+      "played_knights": 1
+    },
+    {
+      "player_id": 2,
+      "color": "Teal",
+      "is_observer": false,
+      "visible_vp": 3,
+      "total_resource_count": 14,
+      "total_development_card_count": 0,
+      "roads_remaining": 0,
+      "settlements_remaining": 2,
+      "cities_remaining": 4,
+      "played_knights": 1
+    },
+    {
+      "player_id": 3,
+      "color": "Purple",
+      "is_observer": false,
+      "visible_vp": 4,
+      "total_resource_count": 9,
+      "total_development_card_count": 0,
+      "roads_remaining": 4,
+      "settlements_remaining": 5,
+      "cities_remaining": 2,
+      "played_knights": 0
+    }
+  ],
+  "private": {
+    "resources": {
+      "brick": 0,
+      "lumber": 0,
+      "ore": 0,
+      "grain": 9,
+      "wool": 1
+    },
+    "development_cards": {
+      "knight": 0,
+      "road_building": 0,
+      "year_of_plenty": 0,
+      "monopoly": 0,
+      "victory_point": 3
+    },
+    "new_development_cards": {
+      "knight": 0,
+      "road_building": 0,
+      "year_of_plenty": 0,
+      "monopoly": 0,
+      "victory_point": 0
+    }
+  },
+  "legal_actions": [],
+  "legal_action_mask": [],
+  "action_tensor_spec": {
+    "action_feature_size": 49,
+    "action_feature_names": [
+      "action_roll_dice",
+      "action_end_turn",
+      "action_build_settlement",
+      "action_build_city",
+      "action_build_road",
+      "action_build_road_free",
+      "action_move_robber",
+      "action_discard_resources",
+      "action_buy_development_card",
+      "action_play_knight",
+      "action_play_road_building",
+      "action_play_year_of_plenty",
+      "action_play_monopoly",
+      "action_trade_maritime",
+      "action_propose_trade",
+      "action_accept_trade",
+      "action_decline_trade",
+      "action_finish_road_building",
+      "intersection_id_norm",
+      "edge_id_norm",
+      "hex_id_norm",
+      "victim_id_norm",
+      "player_id_norm",
+      "rate_norm",
+      "resource_flag_brick",
+      "resource_flag_lumber",
+      "resource_flag_ore",
+      "resource_flag_grain",
+      "resource_flag_wool",
+      "give_resource_brick",
+      "give_resource_lumber",
+      "give_resource_ore",
+      "give_resource_grain",
+      "give_resource_wool",
+      "receive_resource_brick",
+      "receive_resource_lumber",
+      "receive_resource_ore",
+      "receive_resource_grain",
+      "receive_resource_wool",
+      "year_of_plenty_pick_brick",
+      "year_of_plenty_pick_lumber",
+      "year_of_plenty_pick_ore",
+      "year_of_plenty_pick_grain",
+      "year_of_plenty_pick_wool",
+      "discard_brick_norm",
+      "discard_lumber_norm",
+      "discard_ore_norm",
+      "discard_grain_norm",
+      "discard_wool_norm"
+    ]
+  },
+  "action_features": [],
+  "tensor_spec": {
+    "tensor_schema_version": "v1",
+    "global_features": {
+      "size": 21,
+      "names": [
+        "observer_player_id_norm",
+        "active_player_id_norm",
+        "turn_number_norm",
+        "last_roll_norm",
+        "robber_hex_id_norm",
+        "rolled_this_turn",
+        "dev_card_played_this_turn",
+        "has_winner",
+        "winner_id_norm",
+        "longest_road_owner_norm",
+        "largest_army_owner_norm",
+        "pending_trade_responder_norm",
+        "phase_setup_settlement",
+        "phase_setup_road",
+        "phase_turn_start",
+        "phase_robber_discard",
+        "phase_robber_move",
+        "phase_trade_response",
+        "phase_main",
+        "phase_road_building",
+        "phase_game_over"
+      ]
+    },
+    "hex_features": {
+      "shape": [
+        19,
+        20
+      ],
+      "names": [
+        "terrain_desert",
+        "terrain_hills",
+        "terrain_forest",
+        "terrain_mountains",
+        "terrain_fields",
+        "terrain_pasture",
+        "resource_none",
+        "resource_brick",
+        "resource_lumber",
+        "resource_ore",
+        "resource_grain",
+        "resource_wool",
+        "token_norm",
+        "token_pips_norm",
+        "has_robber",
+        "q_norm",
+        "r_norm",
+        "x_norm",
+        "y_norm",
+        "is_coastal_hex"
+      ]
+    },
+    "intersection_features": {
+      "shape": [
+        54,
+        16
+      ],
+      "names": [
+        "owner_none",
+        "owner_p0",
+        "owner_p1",
+        "owner_p2",
+        "owner_p3",
+        "piece_empty",
+        "piece_settlement",
+        "piece_city",
+        "coastal",
+        "adjacent_hex_count_norm",
+        "adjacent_edge_count_norm",
+        "adjacent_intersection_count_norm",
+        "is_observer_owned",
+        "is_enemy_owned",
+        "x_norm",
+        "y_norm"
+      ]
+    },
+    "edge_features": {
+      "shape": [
+        72,
+        9
+      ],
+      "names": [
+        "owner_none",
+        "owner_p0",
+        "owner_p1",
+        "owner_p2",
+        "owner_p3",
+        "coastal",
+        "adjacent_hex_count_norm",
+        "is_observer_owned",
+        "is_enemy_owned"
+      ]
+    },
+    "player_features": {
+      "shape": [
+        4,
+        11
+      ],
+      "names": [
+        "is_observer",
+        "turn_order_relative_norm",
+        "visible_vp_norm",
+        "total_resource_count_norm",
+        "total_dev_card_count_norm",
+        "roads_remaining_norm",
+        "settlements_remaining_norm",
+        "cities_remaining_norm",
+        "played_knights_norm",
+        "has_longest_road",
+        "has_largest_army"
+      ]
+    },
+    "private_features": {
+      "size": 15,
+      "names": [
+        "resource_brick_count_norm",
+        "resource_lumber_count_norm",
+        "resource_ore_count_norm",
+        "resource_grain_count_norm",
+        "resource_wool_count_norm",
+        "dev_knight_count_norm",
+        "dev_road_building_count_norm",
+        "dev_year_of_plenty_count_norm",
+        "dev_monopoly_count_norm",
+        "dev_victory_point_count_norm",
+        "new_dev_knight_count_norm",
+        "new_dev_road_building_count_norm",
+        "new_dev_year_of_plenty_count_norm",
+        "new_dev_monopoly_count_norm",
+        "new_dev_victory_point_count_norm"
+      ]
+    }
+  },
+  "tensor_obs": {
+    "global_features": [
+      0.3333333333333333,
+      0.3333333333333333,
+      1.0,
+      0.4166666666666667,
+      0.7777777777777778,
+      1.0,
+      0.0,
+      1.0,
+      0.3333333333333333,
+      0.3333333333333333,
+      -1.0,
+      -1.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "hex_features": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.2,
+        0.0,
+        0.5,
+        0.0,
+        0.28349364905389035,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.5,
+        1.0,
+        0.0,
+        0.75,
+        0.0,
+        0.5,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6,
+        0.0,
+        1.0,
+        0.0,
+        0.7165063509461096,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.9166666666666666,
+        0.4,
+        0.0,
+        0.25,
+        0.25,
+        0.1752404735808355,
+        0.25,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        0.4,
+        0.0,
+        0.5,
+        0.25,
+        0.3917468245269452,
+        0.25,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.75,
+        0.8,
+        0.0,
+        0.75,
+        0.25,
+        0.6082531754730548,
+        0.25,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.3333333333333333,
+        0.6,
+        0.0,
+        1.0,
+        0.25,
+        0.8247595264191645,
+        0.25,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.75,
+        0.8,
+        0.0,
+        0.0,
+        0.5,
+        0.0669872981077807,
+        0.5,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.8333333333333334,
+        0.6,
+        0.0,
+        0.25,
+        0.5,
+        0.28349364905389035,
+        0.5,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.6666666666666666,
+        1.0,
+        0.0,
+        0.5,
+        0.5,
+        0.5,
+        0.5,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.75,
+        0.5,
+        0.7165063509461096,
+        0.5,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.6666666666666666,
+        1.0,
+        0.0,
+        1.0,
+        0.5,
+        0.9330127018922193,
+        0.5,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.4166666666666667,
+        0.8,
+        0.0,
+        0.0,
+        0.75,
+        0.1752404735808355,
+        0.75,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.16666666666666666,
+        0.2,
+        0.0,
+        0.25,
+        0.75,
+        0.3917468245269452,
+        0.75,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.9166666666666666,
+        0.4,
+        1.0,
+        0.5,
+        0.75,
+        0.6082531754730548,
+        0.75,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.8333333333333334,
+        0.6,
+        0.0,
+        0.75,
+        0.75,
+        0.8247595264191645,
+        0.75,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.4166666666666667,
+        0.8,
+        0.0,
+        0.0,
+        1.0,
+        0.28349364905389035,
+        1.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.5,
+        1.0,
+        0.0,
+        0.25,
+        1.0,
+        0.5,
+        1.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.25,
+        0.4,
+        0.0,
+        0.5,
+        1.0,
+        0.7165063509461096,
+        1.0,
+        1.0
+      ]
+    ],
+    "intersection_features": [
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.6666666666666666,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.403775,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.403775,
+        0.14285714285714285
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.3075498888888889,
+        0.2142857142857143
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.6666666666666666,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.2113248888888889,
+        0.14285714285714285
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.0,
+        0.0,
+        0.2113248888888889,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.0,
+        0.0,
+        0.3075498888888889,
+        -0.0714285714285714
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.6666666666666666,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.596225,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.596225,
+        0.14285714285714285
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.5,
+        0.2142857142857143
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.0,
+        0.0,
+        0.5,
+        -0.0714285714285714
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.0,
+        0.0,
+        0.7886751111111111,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.6666666666666666,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.7886751111111111,
+        0.14285714285714285
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.6924501111111111,
+        0.2142857142857143
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.0,
+        0.0,
+        0.6924501111111111,
+        -0.0714285714285714
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.3075498888888889,
+        0.35714285714285715
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.2113248888888889,
+        0.4285714285714286
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.6666666666666666,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.1150997777777778,
+        0.35714285714285715
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.0,
+        0.0,
+        0.1150997777777778,
+        0.2142857142857143
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.5,
+        0.35714285714285715
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.403775,
+        0.4285714285714286
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.6924501111111111,
+        0.35714285714285715
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.596225,
+        0.4285714285714286
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.0,
+        0.0,
+        0.8849002222222222,
+        0.2142857142857143
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.6666666666666666,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.8849002222222222,
+        0.35714285714285715
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.7886751111111111,
+        0.4285714285714286
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.2113248888888889,
+        0.5714285714285714
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.6666666666666666,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.1150997777777778,
+        0.6428571428571428
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.0,
+        0.0,
+        0.018874777777777796,
+        0.5714285714285714
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.0,
+        0.0,
+        0.018874777777777796,
+        0.4285714285714286
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.403775,
+        0.5714285714285714
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.3075498888888889,
+        0.6428571428571428
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.596225,
+        0.5714285714285714
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.5,
+        0.6428571428571428
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.7886751111111111,
+        0.5714285714285714
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.6924501111111111,
+        0.6428571428571428
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.0,
+        0.0,
+        0.9811252222222222,
+        0.4285714285714286
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.0,
+        0.0,
+        0.9811252222222222,
+        0.5714285714285714
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        0.6666666666666666,
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.8849002222222222,
+        0.6428571428571428
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.3075498888888889,
+        0.7857142857142857
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.6666666666666666,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.2113248888888889,
+        0.8571428571428572
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        1.0,
+        0.0,
+        0.1150997777777778,
+        0.7857142857142857
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.5,
+        0.7857142857142857
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.403775,
+        0.8571428571428572
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.6924501111111111,
+        0.7857142857142857
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.596225,
+        0.8571428571428572
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.0,
+        0.0,
+        0.8849002222222222,
+        0.7857142857142857
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.6666666666666666,
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        0.7886751111111111,
+        0.8571428571428572
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.6666666666666666,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.403775,
+        1.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.0,
+        0.0,
+        0.3075498888888889,
+        1.0714285714285714
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.0,
+        1.0,
+        0.2113248888888889,
+        1.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.6666666666666666,
+        1.0,
+        1.0,
+        0.0,
+        0.0,
+        0.596225,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        1.0,
+        0.0,
+        0.5,
+        1.0714285714285714
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.0,
+        0.0,
+        0.7886751111111111,
+        1.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        0.3333333333333333,
+        0.6666666666666666,
+        0.6666666666666666,
+        0.0,
+        1.0,
+        0.6924501111111111,
+        1.0714285714285714
+      ]
+    ],
+    "edge_features": [
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        1.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.5,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.5,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        1.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        1.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.5,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.5,
+        0.0,
+        1.0
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        1.0,
+        0.5,
+        0.0,
+        1.0
+      ]
+    ],
+    "player_features": [
+      [
+        0.0,
+        1.0,
+        0.2,
+        0.5263157894736842,
+        0.0,
+        0.3333333333333333,
+        0.6,
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      [
+        1.0,
+        0.0,
+        0.7,
+        0.5263157894736842,
+        0.12,
+        0.2,
+        0.0,
+        1.0,
+        0.07142857142857142,
+        1.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.3333333333333333,
+        0.3,
+        0.7368421052631579,
+        0.0,
+        0.0,
+        0.4,
+        1.0,
+        0.07142857142857142,
+        0.0,
+        0.0
+      ],
+      [
+        0.0,
+        0.6666666666666666,
+        0.4,
+        0.47368421052631576,
+        0.0,
+        0.26666666666666666,
+        1.0,
+        0.5,
+        0.0,
+        0.0,
+        0.0
+      ]
+    ],
+    "private_features": [
+      0.0,
+      0.0,
+      0.0,
+      0.47368421052631576,
+      0.05263157894736842,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.6,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+}

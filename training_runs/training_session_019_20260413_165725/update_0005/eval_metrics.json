@@ -1,0 +1,16 @@
+{
+  "episodes_evaluated": 16,
+  "steps_evaluated": 28091,
+  "average_episode_reward": 2.453125000000001,
+  "average_episode_turns": 712.25,
+  "winner_counts": {
+    "3": 2,
+    "none": 12,
+    "0": 1,
+    "2": 1
+  },
+  "truncation_count": 12,
+  "average_first_place_rate": 0.25,
+  "average_final_placement_score": 0.640625,
+  "average_final_vp": 3.71875
+}

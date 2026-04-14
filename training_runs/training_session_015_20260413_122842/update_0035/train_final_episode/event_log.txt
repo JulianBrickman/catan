@@ -1,0 +1,998 @@
+P0 (Red) built a setup settlement on intersection I7.
+P0 (Red) built a road on edge E7.
+P1 (Blue) built a setup settlement on intersection I46.
+P1 (Blue) built a road on edge E69.
+P2 (Teal) built a setup settlement on intersection I31.
+P2 (Teal) built a road on edge E44.
+P3 (Purple) built a setup settlement on intersection I29.
+P3 (Purple) built a road on edge E36.
+P3 (Purple) built a setup settlement on intersection I23.
+P3 (Purple) built a road on edge E48.
+P2 (Teal) built a setup settlement on intersection I3.
+P2 (Teal) built a road on edge E2.
+P1 (Blue) built a setup settlement on intersection I1.
+P1 (Blue) built a road on edge E8.
+P0 (Red) built a setup settlement on intersection I49.
+P0 (Red) built a road on edge E64.
+Setup complete.
+P0 (Red) rolled 10.
+P3 (Purple) received 1 brick from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 4.
+P0 (Red) received 1 lumber from roll 4.
+P3 (Purple) received 1 ore from roll 4.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P1 (Blue) received 1 brick from roll 9.
+P1 (Blue) received 1 ore from roll 9.
+P2 (Teal) received 1 ore from roll 9.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P3 (Purple) received 1 brick from roll 10.
+P3 (Purple) built a road on edge E41.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P3 (Purple) received 1 lumber from roll 5.
+P2 (Teal) received 1 grain from roll 5.
+P3 (Purple) received 1 grain from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P3 (Purple) received 1 lumber from roll 5.
+P2 (Teal) received 1 grain from roll 5.
+P3 (Purple) received 1 grain from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P3 (Purple) received 1 brick from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+P3 (Purple) built a road on edge E53.
+P3 (Purple) built a road on edge E58.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P1 (Blue) received 1 brick from roll 9.
+P1 (Blue) received 1 ore from roll 9.
+P2 (Teal) received 1 ore from roll 9.
+P0 (Red) built a road on edge E6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Purple) received 1 brick from roll 10.
+P1 (Blue) traded 4 ore for 1 brick with the bank.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 12.
+P2 (Teal) received 1 lumber from roll 12.
+P2 (Teal) upgraded intersection I31 into a city.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) moved the robber to hex H6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P1 (Blue) received 1 grain from roll 3.
+P3 (Purple) received 1 grain from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 1 grain from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P1 (Blue) received 1 brick from roll 9.
+P1 (Blue) received 1 ore from roll 9.
+P2 (Teal) received 1 ore from roll 9.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+P1 (Blue) received 1 wool from roll 8.
+P3 (Purple) traded 4 grain for 1 lumber with the bank.
+P3 (Purple) built a road on edge E27.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+P1 (Blue) received 1 wool from roll 8.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Purple) received 1 brick from roll 10.
+P1 (Blue) bought a development card.
+P1 (Blue) traded 4 brick for 1 ore with the bank.
+P1 (Blue) bought a development card.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P3 (Purple) received 1 brick from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+P0 (Red) received 1 lumber from roll 4.
+P3 (Purple) received 1 ore from roll 4.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 lumber from P2 (Teal).
+P0 (Red) moved the robber to hex H0.
+Turn advanced to P1 (Blue).
+P1 (Blue) played a knight on hex H12.
+P1 (Blue) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H11.
+P2 (Teal) built a road on edge E39.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 grain from P2 (Teal).
+P3 (Purple) moved the robber to hex H9.
+P3 (Purple) traded 2 ore for 1 lumber with the bank.
+P3 (Purple) built a road on edge E45.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+P1 (Blue) received 1 wool from roll 8.
+P0 (Red) built a road on edge E10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 lumber from P0 (Red).
+P1 (Blue) moved the robber to hex H2.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P3 (Purple) received 1 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 1 grain from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+P0 (Red) received 1 lumber from roll 4.
+P3 (Purple) received 1 ore from roll 4.
+P3 (Purple) built a road on edge E46.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+P0 (Red) built a road on edge E21.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P3 (Purple) received 1 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 1 grain from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+P0 (Red) received 1 lumber from roll 4.
+P3 (Purple) received 1 ore from roll 4.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P1 (Blue) received 1 brick from roll 9.
+P1 (Blue) received 1 ore from roll 9.
+P2 (Teal) received 1 ore from roll 9.
+P3 (Purple) traded 2 ore for 1 wool with the bank.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 lumber from roll 4.
+P3 (Purple) received 1 ore from roll 4.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+P1 (Blue) received 1 wool from roll 8.
+P1 (Blue) built a road on edge E60.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 11.
+P0 (Red) received 1 ore from roll 11.
+P1 (Blue) received 1 ore from roll 11.
+P2 (Teal) received 2 wool from roll 11.
+P2 (Teal) bought a development card.
+P2 (Teal) bought a development card.
+P2 (Teal) traded 3 grain for 1 wool with the bank.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 8.
+P1 (Blue) received 1 wool from roll 8.
+P3 (Purple) bought a development card.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+P0 (Red) built a road on edge E65.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P0 (Red) received 1 ore from roll 11.
+P1 (Blue) received 1 ore from roll 11.
+P2 (Teal) received 2 wool from roll 11.
+Turn advanced to P2 (Teal).
+P2 (Teal) stole 1 lumber from P3 (Purple).
+P2 (Teal) played a knight on hex H8.
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 grain from P3 (Purple).
+P2 (Teal) moved the robber to hex H6.
+P2 (Teal) traded 3 wool for 1 ore with the bank.
+Turn advanced to P3 (Purple).
+P3 (Purple) played a knight on hex H17.
+P3 (Purple) rolled 5.
+P3 (Purple) received 1 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 1 grain from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+P0 (Red) built a road on edge E9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P3 (Purple) received 1 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 1 grain from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) played a knight on hex H7.
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 ore from P1 (Blue).
+P2 (Teal) moved the robber to hex H15.
+P2 (Teal) traded 3 grain for 1 wool with the bank.
+P2 (Teal) bought a development card.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P3 (Purple) received 1 brick from roll 10.
+P3 (Purple) built a road on edge E37.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P1 (Blue) received 1 grain from roll 3.
+P3 (Purple) received 1 grain from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Purple) received 1 brick from roll 10.
+P1 (Blue) bought a development card.
+Turn advanced to P2 (Teal).
+P2 (Teal) played a knight on hex H12.
+P2 (Teal) rolled 8.
+P1 (Blue) received 1 wool from roll 8.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 ore from P2 (Teal).
+P3 (Purple) moved the robber to hex H3.
+P3 (Purple) built a road on edge E54.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P3 (Purple) received 1 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 1 grain from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P1 (Blue) received 1 brick from roll 9.
+P1 (Blue) received 1 ore from roll 9.
+P2 (Teal) received 1 ore from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P3 (Purple) received 1 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 1 grain from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+P0 (Red) received 1 lumber from roll 4.
+P3 (Purple) received 1 ore from roll 4.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P1 (Blue) received 1 brick from roll 9.
+P1 (Blue) received 1 ore from roll 9.
+P2 (Teal) received 1 ore from roll 9.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P1 (Blue) received 1 brick from roll 9.
+P1 (Blue) received 1 ore from roll 9.
+P2 (Teal) received 1 ore from roll 9.
+P1 (Blue) upgraded intersection I46 into a city.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P1 (Blue) received 2 brick from roll 9.
+P1 (Blue) received 1 ore from roll 9.
+P2 (Teal) received 1 ore from roll 9.
+P2 (Teal) upgraded intersection I3 into a city.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 3.
+P1 (Blue) received 1 grain from roll 3.
+P3 (Purple) received 1 grain from roll 3.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Purple).
+P0 (Red) moved the robber to hex H13.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Purple) received 1 brick from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+P2 (Teal) traded 3 grain for 1 ore with the bank.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+P0 (Red) received 1 lumber from roll 4.
+P3 (Purple) received 1 ore from roll 4.
+P3 (Purple) built a road on edge E22.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 lumber from roll 4.
+P3 (Purple) received 1 ore from roll 4.
+P0 (Red) built a road on edge E26.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P1 (Blue) received 2 brick from roll 9.
+P1 (Blue) received 1 ore from roll 9.
+P2 (Teal) received 2 ore from roll 9.
+P1 (Blue) traded 4 brick for 1 ore with the bank.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 ore from P1 (Blue).
+P2 (Teal) moved the robber to hex H15.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 grain from P0 (Red).
+P3 (Purple) moved the robber to hex H16.
+P3 (Purple) upgraded intersection I23 into a city.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 1 grain from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+P1 (Blue) received 2 wool from roll 8.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 wool from P1 (Blue).
+P2 (Teal) moved the robber to hex H15.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 2.
+P0 (Red) received 1 grain from roll 2.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 1 grain from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 2.
+P0 (Red) received 1 grain from roll 2.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+P0 (Red) received 1 lumber from roll 4.
+P3 (Purple) received 1 ore from roll 4.
+P2 (Teal) bought a development card.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+P3 (Purple) traded 4 lumber for 1 grain with the bank.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+P0 (Red) built a road on edge E13.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P2 (Teal).
+P2 (Teal) stole 1 grain from P3 (Purple).
+P2 (Teal) played a knight on hex H8.
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 wool from P1 (Blue).
+P2 (Teal) moved the robber to hex H1.
+P2 (Teal) bought a development card.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 1 grain from roll 5.
+P0 (Red) built a road on edge E12.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 1 grain from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) stole 1 ore from P1 (Blue).
+P2 (Teal) played a knight on hex H15.
+P2 (Teal) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 1 grain from roll 5.
+P2 (Teal) traded 3 grain for 1 brick with the bank.
+P2 (Teal) traded 3 ore for 1 grain with the bank.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+P0 (Red) received 1 lumber from roll 4.
+P3 (Purple) received 1 ore from roll 4.
+P3 (Purple) traded 4 lumber for 1 brick with the bank.
+P3 (Purple) built a road on edge E40.
+P3 (Purple) traded 4 grain for 1 lumber with the bank.
+P3 (Purple) traded 2 ore for 1 brick with the bank.
+P3 (Purple) built a road on edge E55.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) moved the robber to hex H17.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+P1 (Blue) received 2 wool from roll 8.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 1 grain from roll 5.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P3 (Purple).
+P0 (Red) moved the robber to hex H13.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P2 (Teal).
+P1 (Blue) moved the robber to hex H3.
+P1 (Blue) bought a development card.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 11.
+P0 (Red) received 1 ore from roll 11.
+P1 (Blue) received 1 ore from roll 11.
+P2 (Teal) received 2 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Purple) received 2 brick from roll 10.
+P0 (Red) built a road on edge E24.
+Turn advanced to P1 (Blue).
+P1 (Blue) stole 1 grain from P0 (Red).
+P1 (Blue) played a knight on hex H2.
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 grain from P2 (Teal).
+P1 (Blue) moved the robber to hex H3.
+P1 (Blue) bought a development card.
+P1 (Blue) bought a development card.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+P1 (Blue) received 2 wool from roll 8.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P3 (Purple) received 2 brick from roll 10.
+P3 (Purple) built a road on edge E28.
+P3 (Purple) built a road on edge E42.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 1 grain from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) stole 1 grain from P3 (Purple).
+P1 (Blue) played a knight on hex H8.
+P1 (Blue) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+P1 (Blue) received 2 wool from roll 8.
+P2 (Teal) traded 3 grain for 1 lumber with the bank.
+P2 (Teal) built a road on edge E1.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P1 (Blue) received 2 brick from roll 9.
+P1 (Blue) received 1 ore from roll 9.
+P2 (Teal) received 2 ore from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 lumber from roll 4.
+P0 (Red) built a road on edge E0.
+Turn advanced to P1 (Blue).
+P1 (Blue) monopolized grain for 2 cards.
+P1 (Blue) rolled 10.
+P3 (Purple) received 2 brick from roll 10.
+P1 (Blue) bought a development card.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P3 (Purple) received 2 brick from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 ore from P0 (Red).
+P3 (Purple) moved the robber to hex H1.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+P0 (Red) built a road on edge E51.
+Turn advanced to P1 (Blue).
+P1 (Blue) stole 1 brick from P3 (Purple).
+P1 (Blue) played a knight on hex H9.
+P1 (Blue) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 3.
+P1 (Blue) received 1 grain from roll 3.
+P3 (Purple) received 1 grain from roll 3.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P1 (Blue) received 2 brick from roll 9.
+P1 (Blue) received 1 ore from roll 9.
+P2 (Teal) received 2 ore from roll 9.
+P3 (Purple) traded 4 lumber for 1 brick with the bank.
+P3 (Purple) traded 4 brick for 1 grain with the bank.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+P1 (Blue) received 2 wool from roll 8.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P1 (Blue) bought a development card.
+P1 (Blue) traded 4 wool for 1 brick with the bank.
+P1 (Blue) traded 4 brick for 1 grain with the bank.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 8.
+P1 (Blue) received 2 wool from roll 8.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P3 (Purple) received 2 brick from roll 10.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+P1 (Blue) received 2 wool from roll 8.
+Turn advanced to P1 (Blue).
+P1 (Blue) monopolized ore for 6 cards.
+P1 (Blue) rolled 8.
+P1 (Blue) received 2 wool from roll 8.
+P1 (Blue) upgraded intersection I1 into a city.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+P0 (Red) received 1 lumber from roll 4.
+P3 (Purple) received 1 ore from roll 4.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) moved the robber to hex H16.
+P0 (Red) built a road on edge E25.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) moved the robber to hex H17.
+P1 (Blue) traded 4 wool for 1 grain with the bank.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 11.
+P0 (Red) received 1 ore from roll 11.
+P1 (Blue) received 2 ore from roll 11.
+P2 (Teal) received 2 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 9.
+P1 (Blue) received 2 brick from roll 9.
+P1 (Blue) received 2 ore from roll 9.
+P2 (Teal) received 2 ore from roll 9.
+P0 (Red) built a road on edge E5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+P1 (Blue) received 2 wool from roll 8.
+P1 (Blue) bought a development card.
+P1 (Blue) traded 4 ore for 1 lumber with the bank.
+P1 (Blue) built a road on edge E61.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 2.
+P0 (Red) received 1 grain from roll 2.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 12.
+P2 (Teal) received 2 lumber from roll 12.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+P1 (Blue) received 2 wool from roll 8.
+Turn advanced to P1 (Blue).
+P1 (Blue) stole 1 lumber from P3 (Purple).
+P1 (Blue) played a knight on hex H11.
+P1 (Blue) rolled 10.
+Roll 10 produced no resources.
+P1 (Blue) built a road on edge E70.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 9.
+P1 (Blue) received 2 brick from roll 9.
+P1 (Blue) received 2 ore from roll 9.
+P2 (Teal) received 2 ore from roll 9.
+P2 (Teal) traded 3 wool for 1 ore with the bank.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 9.
+P1 (Blue) received 2 brick from roll 9.
+P1 (Blue) received 2 ore from roll 9.
+P2 (Teal) received 2 ore from roll 9.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 lumber from P2 (Teal).
+P0 (Red) moved the robber to hex H10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P0 (Red).
+P1 (Blue) moved the robber to hex H16.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+P3 (Purple) received 1 ore from roll 4.
+P2 (Teal) traded 3 ore for 1 wool with the bank.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+P3 (Purple) received 1 ore from roll 4.
+P3 (Purple) upgraded intersection I29 into a city.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 2 grain from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Purple) received 2 brick from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 3.
+P1 (Blue) received 2 grain from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+P3 (Purple) traded 4 brick for 1 grain with the bank.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+P1 (Blue) received 2 wool from roll 8.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 wool from P2 (Teal).
+P1 (Blue) moved the robber to hex H10.
+P1 (Blue) bought a development card.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 2 grain from roll 5.
+P2 (Teal) traded 3 grain for 1 ore with the bank.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 11.
+P0 (Red) received 1 ore from roll 11.
+P1 (Blue) received 2 ore from roll 11.
+P2 (Teal) received 2 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+P1 (Blue) received 2 wool from roll 8.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 2 grain from roll 5.
+P1 (Blue) traded 4 wool for 1 grain with the bank.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 grain from P3 (Purple).
+P2 (Teal) moved the robber to hex H13.
+P2 (Teal) bought a development card.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 2 grain from roll 5.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 7.
+P0 (Red) stole 1 grain from P2 (Teal).
+P0 (Red) moved the robber to hex H10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+P1 (Blue) received 2 wool from roll 8.
+P1 (Blue) bought a development card.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P3 (Purple) received 2 brick from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P3 (Purple) received 2 brick from roll 10.
+P3 (Purple) traded 4 grain for 1 ore with the bank.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P1 (Blue) received 2 grain from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+P1 (Blue) bought a development card.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+P2 (Teal) traded 3 grain for 1 wool with the bank.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) stole 1 brick from P1 (Blue).
+P3 (Purple) moved the robber to hex H15.
+P3 (Purple) traded 4 brick for 1 wool with the bank.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 8.
+Roll 8 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P3 (Purple) received 2 brick from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 11.
+P0 (Red) received 1 ore from roll 11.
+P1 (Blue) received 2 ore from roll 11.
+P2 (Teal) received 2 wool from roll 11.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Purple) received 2 brick from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P0 (Red) received 1 ore from roll 11.
+P1 (Blue) received 2 ore from roll 11.
+P2 (Teal) received 2 wool from roll 11.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 brick from P3 (Purple).
+P2 (Teal) moved the robber to hex H11.
+P2 (Teal) traded 3 wool for 1 brick with the bank.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 2 grain from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 brick from P2 (Teal).
+P1 (Blue) moved the robber to hex H3.
+P1 (Blue) traded 4 ore for 1 grain with the bank.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+P0 (Red) received 1 lumber from roll 4.
+P3 (Purple) received 2 ore from roll 4.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 12.
+Roll 12 produced no resources.
+P3 (Purple) traded 2 ore for 1 wool with the bank.
+P3 (Purple) built a settlement on intersection I37.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 2 grain from roll 5.
+P0 (Red) traded 4 brick for 1 wool with the bank.
+P0 (Red) bought a development card.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P1 (Blue) received 2 brick from roll 9.
+P1 (Blue) received 2 ore from roll 9.
+P2 (Teal) received 2 ore from roll 9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 2 grain from roll 5.
+P2 (Teal) bought a development card.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+P3 (Purple) traded 4 lumber for 1 ore with the bank.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 12.
+Roll 12 produced no resources.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 9.
+P1 (Blue) received 2 brick from roll 9.
+P1 (Blue) received 2 ore from roll 9.
+P2 (Teal) received 2 ore from roll 9.
+P1 (Blue) traded 4 ore for 1 grain with the bank.
+P1 (Blue) traded 4 brick for 1 ore with the bank.
+Turn advanced to P2 (Teal).
+P2 (Teal) stole 1 brick from P1 (Blue).
+P2 (Teal) played a knight on hex H1.
+P2 (Teal) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+P2 (Teal) traded 3 grain for 1 lumber with the bank.
+P2 (Teal) built a road on edge E16.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 2 grain from roll 5.
+P3 (Purple) traded 4 grain for 1 wool with the bank.
+P3 (Purple) built a settlement on intersection I38.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 lumber from roll 4.
+P3 (Purple) received 1 lumber from roll 4.
+P3 (Purple) received 2 ore from roll 4.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P2 (Teal) received 2 wool from roll 11.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 grain from P3 (Purple).
+P2 (Teal) moved the robber to hex H9.
+P2 (Teal) bought a development card.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+P0 (Red) received 1 lumber from roll 4.
+P3 (Purple) received 1 lumber from roll 4.
+P3 (Purple) received 2 ore from roll 4.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Purple) received 1 brick from roll 10.
+P3 (Purple) received 2 brick from roll 10.
+P3 (Purple) received 1 lumber from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 11.
+P0 (Red) received 1 ore from roll 11.
+P1 (Blue) received 2 ore from roll 11.
+P2 (Teal) received 2 wool from roll 11.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) moved the robber to hex H10.
+P2 (Teal) played a knight on hex H17.
+P2 (Teal) bought a development card.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 2 grain from roll 5.
+P3 (Purple) upgraded intersection I37 into a city.
+P3 (Purple) traded 4 lumber for 1 brick with the bank.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 4.
+P0 (Red) received 1 lumber from roll 4.
+P3 (Purple) received 1 lumber from roll 4.
+P3 (Purple) received 2 ore from roll 4.
+P0 (Red) traded 4 lumber for 1 grain with the bank.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 2 grain from roll 5.
+P1 (Blue) traded 4 ore for 1 brick with the bank.
+Turn advanced to P2 (Teal).
+P2 (Teal) stole 1 lumber from P3 (Purple).
+P2 (Teal) played a knight on hex H8.
+P2 (Teal) rolled 8.
+P3 (Purple) received 2 wool from roll 8.
+P1 (Blue) received 2 wool from roll 8.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) moved the robber to hex H6.
+P3 (Purple) bought a development card.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 2 grain from roll 5.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 ore from P3 (Purple).
+P1 (Blue) moved the robber to hex H9.
+P1 (Blue) bought a development card.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 11.
+P0 (Red) received 1 ore from roll 11.
+P1 (Blue) received 2 ore from roll 11.
+P2 (Teal) received 2 wool from roll 11.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 2.
+P0 (Red) received 1 grain from roll 2.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 8.
+P3 (Purple) received 2 wool from roll 8.
+P1 (Blue) received 2 wool from roll 8.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) stole 1 wool from P1 (Blue).
+P2 (Teal) moved the robber to hex H0.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 2.
+P0 (Red) received 1 grain from roll 2.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 3.
+P1 (Blue) received 2 grain from roll 3.
+P3 (Purple) received 1 grain from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) moved the robber to hex H4.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+P0 (Red) traded 4 brick for 1 ore with the bank.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) stole 1 wool from P3 (Purple).
+P1 (Blue) moved the robber to hex H9.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 7.
+P2 (Teal) moved the robber to hex H17.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 7.
+P3 (Purple) moved the robber to hex H8.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P0 (Red) received 1 ore from roll 11.
+P1 (Blue) received 2 ore from roll 11.
+P2 (Teal) received 2 wool from roll 11.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+P1 (Blue) received 2 grain from roll 3.
+P3 (Purple) received 1 grain from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+P1 (Blue) traded 4 ore for 1 wool with the bank.
+P1 (Blue) traded 4 grain for 1 brick with the bank.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P3 (Purple) received 2 brick from roll 10.
+P3 (Purple) received 2 brick from roll 10.
+P3 (Purple) received 1 lumber from roll 10.
+P2 (Teal) traded 3 grain for 1 brick with the bank.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 3.
+P1 (Blue) received 2 grain from roll 3.
+P3 (Purple) received 1 grain from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+P3 (Purple) built a settlement on intersection I41.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 10.
+P3 (Purple) received 2 brick from roll 10.
+P3 (Purple) received 2 brick from roll 10.
+P3 (Purple) received 1 lumber from roll 10.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 3.
+P1 (Blue) received 2 grain from roll 3.
+P3 (Purple) received 1 grain from roll 3.
+P3 (Purple) received 1 grain from roll 3.
+P3 (Purple) received 2 grain from roll 3.
+P1 (Blue) traded 4 grain for 1 wool with the bank.
+P1 (Blue) traded 4 wool for 1 ore with the bank.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 5.
+P3 (Purple) received 2 lumber from roll 5.
+P2 (Teal) received 2 grain from roll 5.
+P3 (Purple) received 2 grain from roll 5.
+P2 (Teal) traded 3 grain for 1 brick with the bank.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 6.
+P0 (Red) received 1 brick from roll 6.
+P3 (Purple) received 1 wool from roll 6.
+P3 (Purple) built a settlement on intersection I18.
+P3 (Purple) traded 4 brick for 1 grain with the bank.
+P3 (Purple) traded 4 grain for 1 wool with the bank.
+P3 (Purple) traded 4 grain for 1 ore with the bank.
+P3 (Purple) traded 2 ore for 1 grain with the bank.
+P3 (Purple) traded 4 grain for 1 brick with the bank.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 11.
+P0 (Red) received 1 ore from roll 11.
+P1 (Blue) received 2 ore from roll 11.
+P3 (Purple) received 1 wool from roll 11.
+P2 (Teal) received 2 wool from roll 11.
+P0 (Red) upgraded intersection I49 into a city.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 7.
+P1 (Blue) moved the robber to hex H18.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 4.
+P0 (Red) received 2 lumber from roll 4.
+P3 (Purple) received 1 lumber from roll 4.
+P3 (Purple) received 2 ore from roll 4.
+P2 (Teal) traded 3 wool for 1 ore with the bank.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 4.
+P0 (Red) received 2 lumber from roll 4.
+P3 (Purple) received 1 lumber from roll 4.
+P3 (Purple) received 2 ore from roll 4.
+P3 (Purple) traded 2 ore for 1 grain with the bank.
+Turn advanced to P0 (Red).
+P0 (Red) rolled 6.
+P3 (Purple) received 1 brick from roll 6.
+P0 (Red) received 1 brick from roll 6.
+P3 (Purple) received 1 wool from roll 6.
+P0 (Red) traded 4 lumber for 1 grain with the bank.
+Turn advanced to P1 (Blue).
+P1 (Blue) rolled 10.
+P3 (Purple) received 2 brick from roll 10.
+P3 (Purple) received 2 brick from roll 10.
+P3 (Purple) received 1 lumber from roll 10.
+Turn advanced to P2 (Teal).
+P2 (Teal) rolled 10.
+P3 (Purple) received 2 brick from roll 10.
+P3 (Purple) received 2 brick from roll 10.
+P3 (Purple) received 1 lumber from roll 10.
+Turn advanced to P3 (Purple).
+P3 (Purple) rolled 10.
+P3 (Purple) received 1 brick from roll 10 (bank shortage tie-break).
+P3 (Purple) received 1 lumber from roll 10.
+P3 (Purple) traded 4 brick for 1 grain with the bank.
+P3 (Purple) traded 4 lumber for 1 ore with the bank.
+P3 (Purple) upgraded intersection I38 into a city.
+P3 (Purple) wins with 10 VP.

@@ -1,0 +1,11 @@
+{
+  "winner": 2,
+  "placements": {
+    "2": 1,
+    "1": 2,
+    "0": 3,
+    "3": 4
+  },
+  "turns": 94,
+  "truncated": false
+}

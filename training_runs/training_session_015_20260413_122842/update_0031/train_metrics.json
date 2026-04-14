@@ -1,0 +1,21 @@
+{
+  "episodes_collected": 12,
+  "steps_collected": 8126,
+  "average_episode_reward": 2.8728333333333804,
+  "average_episode_turns": 227.33333333333334,
+  "winner_counts": {
+    "3": 7,
+    "2": 3,
+    "0": 1,
+    "1": 1
+  },
+  "truncation_count": 0,
+  "average_first_place_rate": 1.0,
+  "average_final_placement_score": 0.4427083333333333,
+  "average_final_vp": 6.166666666666667,
+  "policy_loss": 0.0005028809981757966,
+  "value_loss": 0.005082528471983841,
+  "entropy": 0.7143563658263036,
+  "total_loss": -0.00409941726884856,
+  "explained_variance": 0.9411675333976746
+}

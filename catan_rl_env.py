@@ -71,7 +71,9 @@ class RewardConfig:
             "placement_score": 1.0,
             "win": 0.0,
             "final_vp": 0.0,
+            "final_vp_margin": 0.0,
             "vp_gain": 0.0,
+            "setup_settlement_quality": 0.0,
             "moves_taken": 0.0,
             "turn_penalty": 0.0,
             "roads_built": 0.0,
@@ -83,6 +85,8 @@ class RewardConfig:
             "cards_stolen": 0.0,
             "robber_steals": 0.0,
             "resources_discarded": 0.0,
+            "truncation": 0.0,
+            "missed_action_opportunity": 0.0,
         }
     )
     placement_rewards: Dict[int, float] = field(default_factory=lambda: dict(DEFAULT_PLACEMENT_REWARDS))
@@ -230,7 +234,7 @@ class CatanRLEnv:
 
         if done:
             placements = self.compute_placements()
-            terminal_components = self.terminal_reward_components(placements)
+            terminal_components = self.terminal_reward_components(placements, truncated=truncated)
             info["placements"] = placements
             info["terminal_reward_components"] = terminal_components
             info["terminal_rewards_by_player"] = {
@@ -268,14 +272,20 @@ class CatanRLEnv:
             placements[player_id] = current_place
         return placements
 
-    def terminal_reward_components(self, placements: Dict[int, int]) -> Dict[int, Dict[str, float]]:
+    def terminal_reward_components(self, placements: Dict[int, int], truncated: bool = False) -> Dict[int, Dict[str, float]]:
         terminal: Dict[int, Dict[str, float]] = {}
+        totals = {player_id: self.state.total_victory_points(player_id) for player_id in range(len(self.state.players))}
         for player_id in range(len(self.state.players)):
             place = placements[player_id]
+            max_opponent_vp = max(
+                totals[other_id] for other_id in totals if other_id != player_id
+            )
             terminal[player_id] = {
                 "placement_score": self.config.reward_config.placement_rewards.get(place, 0.0),
                 "win": 1.0 if self.state.winner == player_id else 0.0,
-                "final_vp": float(self.state.total_victory_points(player_id)),
+                "final_vp": float(totals[player_id]),
+                "final_vp_margin": float(totals[player_id] - max_opponent_vp),
+                "truncation": 1.0 if truncated else 0.0,
             }
         return terminal
 
@@ -654,11 +664,14 @@ class CatanRLEnv:
         robber_steals = cards_stolen
         dev_cards_before = before_structures["dev_cards_total"]
         dev_cards_after = after_structures["dev_cards_total"]
+        missed_action_opportunity = 1.0 if self._ended_turn_with_missed_opportunity(before, action) else 0.0
+        setup_settlement_quality = self._setup_settlement_quality_reward(action)
         return {
             "placement_score": 0.0,
             "win": 1.0 if self.state.winner == acting_player else 0.0,
             "final_vp": float(after_total_vp) if self.state.winner == acting_player else 0.0,
             "vp_gain": float(after_total_vp - before_total_vp),
+            "setup_settlement_quality": setup_settlement_quality,
             "moves_taken": 1.0,
             "turn_penalty": 1.0,
             "roads_built": float(after_structures["roads_built"] - before_structures["roads_built"]),
@@ -670,7 +683,44 @@ class CatanRLEnv:
             "cards_stolen": float(cards_stolen),
             "robber_steals": float(robber_steals),
             "resources_discarded": float(resources_discarded),
+            "missed_action_opportunity": missed_action_opportunity,
         }
+
+    def _setup_settlement_quality_reward(self, action: Action) -> float:
+        if action.action_type != "build_settlement":
+            return 0.0
+        intersection_id = action.params.get("intersection_id")
+        if not isinstance(intersection_id, int):
+            return 0.0
+        if self.state.pending_phase not in {"setup_road", "setup_settlement"}:
+            return 0.0
+        node = self.state.board.intersections[intersection_id]
+        pip_total = 0.0
+        for hex_id in node.adjacent_hex_ids:
+            tile = self.state.board.hexes[hex_id]
+            if tile.resource is None or tile.token is None:
+                continue
+            pip_total += self._token_pips(tile.token)
+        return pip_total
+
+    def _ended_turn_with_missed_opportunity(self, before: Dict[str, object], action: Action) -> bool:
+        if action.action_type != "end_turn":
+            return False
+        legal_actions = before.get("legal_actions", [])
+        valuable_action_types = {
+            "build_settlement",
+            "build_city",
+            "build_road",
+            "buy_development_card",
+            "play_knight",
+            "play_road_building",
+            "play_year_of_plenty",
+            "play_monopoly",
+        }
+        return any(
+            isinstance(legal_action, dict) and legal_action.get("action_type") in valuable_action_types
+            for legal_action in legal_actions
+        )
 
     def _placement_tied(self, player_a: int, player_b: int) -> bool:
         return (
